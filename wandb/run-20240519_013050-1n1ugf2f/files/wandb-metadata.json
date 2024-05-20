@@ -1,0 +1,256 @@
+{
+    "os": "Linux-6.2.0-26-generic-x86_64-with-glibc2.35",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-05-18T16:30:50.631973",
+    "startedAt": "2024-05-18T16:30:50.009200",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--data_dir",
+        "data",
+        "--dataset",
+        "domainnet/sketch",
+        "--source",
+        "domainnet_clipart_source",
+        "--run_name",
+        "domainnet_clipart2sketch",
+        "--batch_size",
+        "128",
+        "--num_class",
+        "126",
+        "--lr",
+        "0.02",
+        "--num_epochs",
+        "1000",
+        "--num_neighbors",
+        "10",
+        "--wandb"
+    ],
+    "state": "running",
+    "program": "/home/ncmssh0313/Guiding-Pseudo-labels-with-Uncertainty-Estimation-for-Source-free-Unsupervised-Domain-Adaptation/train_target.py",
+    "codePathLocal": "train_target.py",
+    "codePath": "train_target.py",
+    "git": {
+        "remote": "https://github.com/MattiaLitrico/Guiding-Pseudo-labels-with-Uncertainty-Estimation-for-Source-free-Unsupervised-Domain-Adaptation.git",
+        "commit": "35e59c3c27ce32ee778368cfebdd19073788dae7"
+    },
+    "email": "mseokn@gmail.com",
+    "root": "/home/ncmssh0313/Guiding-Pseudo-labels-with-Uncertainty-Estimation-for-Source-free-Unsupervised-Domain-Adaptation",
+    "host": "UTL1",
+    "username": "ncmssh0313",
+    "executable": "/home/ncmssh0313/.conda/envs/ada/bin/python",
+    "cpu_count": 32,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2787.8539687499997,
+        "min": 800.0,
+        "max": 4100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3299.418,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 2174.555,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3100.485,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 2994.993,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 800.757,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3093.191,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3018.584,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3178.85,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.008,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3088.657,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3299.991,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 1544.906,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 2500.0,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 2986.207,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3299.991,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.0,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.0,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3069.3,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3299.935,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 2580.227,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 2996.245,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.0,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3069.728,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.008,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3148.935,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 2080.815,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.0,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.0,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 982.64,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.0,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 3300.0,
+            "min": 800.0,
+            "max": 4100.0
+        },
+        {
+            "current": 2966.443,
+            "min": 800.0,
+            "max": 4100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 847.2266044616699,
+            "used": 54.65879821777344
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 8,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        },
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        },
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        },
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        },
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        },
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        },
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        },
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 503.5804672241211
+    }
+}

@@ -1,0 +1,1633 @@
+
+Train Nets
+Epoch [  0/300] Iter[  1/144]	
+Epoch [  0/300] Iter[101/144]	
+Training acc =  12.890625
+| Test Epoch #0	 Accuracy: 30.70%
+Saving best!
+Train Nets
+Epoch [  1/300] Iter[  1/144]	
+Epoch [  1/300] Iter[101/144]	
+Training acc =  38.791232638888886
+| Test Epoch #1	 Accuracy: 47.51%
+Saving best!
+Train Nets
+Epoch [  2/300] Iter[  1/144]	
+Epoch [  2/300] Iter[101/144]	
+Training acc =  50.070529513888886
+| Test Epoch #2	 Accuracy: 55.84%
+Saving best!
+Train Nets
+Epoch [  3/300] Iter[  1/144]	
+Epoch [  3/300] Iter[101/144]	
+Training acc =  57.590060763888886
+| Test Epoch #3	 Accuracy: 61.45%
+Saving best!
+Train Nets
+Epoch [  4/300] Iter[  1/144]	
+Epoch [  4/300] Iter[101/144]	
+Training acc =  62.06597222222222
+| Test Epoch #4	 Accuracy: 65.77%
+Saving best!
+Train Nets
+Epoch [  5/300] Iter[  1/144]	
+Epoch [  5/300] Iter[101/144]	
+Training acc =  65.98849826388889
+| Test Epoch #5	 Accuracy: 69.30%
+Saving best!
+Train Nets
+Epoch [  6/300] Iter[  1/144]	
+Epoch [  6/300] Iter[101/144]	
+Training acc =  69.580078125
+| Test Epoch #6	 Accuracy: 72.28%
+Saving best!
+Train Nets
+Epoch [  7/300] Iter[  1/144]	
+Epoch [  7/300] Iter[101/144]	
+Training acc =  71.875
+| Test Epoch #7	 Accuracy: 74.58%
+Saving best!
+Train Nets
+Epoch [  8/300] Iter[  1/144]	
+Epoch [  8/300] Iter[101/144]	
+Training acc =  73.83897569444444
+| Test Epoch #8	 Accuracy: 76.54%
+Saving best!
+Train Nets
+Epoch [  9/300] Iter[  1/144]	
+Epoch [  9/300] Iter[101/144]	
+Training acc =  75.70529513888889
+| Test Epoch #9	 Accuracy: 78.25%
+Saving best!
+Train Nets
+Epoch [ 10/300] Iter[  1/144]	
+Epoch [ 10/300] Iter[101/144]	
+Training acc =  77.26779513888889
+| Test Epoch #10	 Accuracy: 79.48%
+Saving best!
+Train Nets
+Epoch [ 11/300] Iter[  1/144]	
+Epoch [ 11/300] Iter[101/144]	
+Training acc =  78.21180555555556
+| Test Epoch #11	 Accuracy: 80.70%
+Saving best!
+Train Nets
+Epoch [ 12/300] Iter[  1/144]	
+Epoch [ 12/300] Iter[101/144]	
+Training acc =  79.56271701388889
+| Test Epoch #12	 Accuracy: 81.97%
+Saving best!
+Train Nets
+Epoch [ 13/300] Iter[  1/144]	
+Epoch [ 13/300] Iter[101/144]	
+Training acc =  80.60438368055556
+| Test Epoch #13	 Accuracy: 82.70%
+Saving best!
+Train Nets
+Epoch [ 14/300] Iter[  1/144]	
+Epoch [ 14/300] Iter[101/144]	
+Training acc =  80.98415798611111
+| Test Epoch #14	 Accuracy: 83.45%
+Saving best!
+Train Nets
+Epoch [ 15/300] Iter[  1/144]	
+Epoch [ 15/300] Iter[101/144]	
+Training acc =  81.97699652777777
+| Test Epoch #15	 Accuracy: 84.40%
+Saving best!
+Train Nets
+Epoch [ 16/300] Iter[  1/144]	
+Epoch [ 16/300] Iter[101/144]	
+Training acc =  83.04578993055556
+| Test Epoch #16	 Accuracy: 85.04%
+Saving best!
+Train Nets
+Epoch [ 17/300] Iter[  1/144]	
+Epoch [ 17/300] Iter[101/144]	
+Training acc =  83.42556423611111
+| Test Epoch #17	 Accuracy: 85.72%
+Saving best!
+Train Nets
+Epoch [ 18/300] Iter[  1/144]	
+Epoch [ 18/300] Iter[101/144]	
+Training acc =  84.15798611111111
+| Test Epoch #18	 Accuracy: 86.35%
+Saving best!
+Train Nets
+Epoch [ 19/300] Iter[  1/144]	
+Epoch [ 19/300] Iter[101/144]	
+Training acc =  84.96636284722223
+| Test Epoch #19	 Accuracy: 86.97%
+Saving best!
+Train Nets
+Epoch [ 20/300] Iter[  1/144]	
+Epoch [ 20/300] Iter[101/144]	
+Training acc =  85.27018229166667
+| Test Epoch #20	 Accuracy: 87.41%
+Saving best!
+Train Nets
+Epoch [ 21/300] Iter[  1/144]	
+Epoch [ 21/300] Iter[101/144]	
+Training acc =  85.94292534722223
+| Test Epoch #21	 Accuracy: 87.96%
+Saving best!
+Train Nets
+Epoch [ 22/300] Iter[  1/144]	
+Epoch [ 22/300] Iter[101/144]	
+Training acc =  86.38237847222223
+| Test Epoch #22	 Accuracy: 88.58%
+Saving best!
+Train Nets
+Epoch [ 23/300] Iter[  1/144]	
+Epoch [ 23/300] Iter[101/144]	
+Training acc =  86.73502604166667
+| Test Epoch #23	 Accuracy: 88.94%
+Saving best!
+Train Nets
+Epoch [ 24/300] Iter[  1/144]	
+Epoch [ 24/300] Iter[101/144]	
+Training acc =  87.34266493055556
+| Test Epoch #24	 Accuracy: 89.46%
+Saving best!
+Train Nets
+Epoch [ 25/300] Iter[  1/144]	
+Epoch [ 25/300] Iter[101/144]	
+Training acc =  87.70073784722223
+| Test Epoch #25	 Accuracy: 89.82%
+Saving best!
+Train Nets
+Epoch [ 26/300] Iter[  1/144]	
+Epoch [ 26/300] Iter[101/144]	
+Training acc =  88.32465277777777
+| Test Epoch #26	 Accuracy: 90.22%
+Saving best!
+Train Nets
+Epoch [ 27/300] Iter[  1/144]	
+Epoch [ 27/300] Iter[101/144]	
+Training acc =  88.62847222222223
+| Test Epoch #27	 Accuracy: 90.72%
+Saving best!
+Train Nets
+Epoch [ 28/300] Iter[  1/144]	
+Epoch [ 28/300] Iter[101/144]	
+Training acc =  88.85091145833333
+| Test Epoch #28	 Accuracy: 91.00%
+Saving best!
+Train Nets
+Epoch [ 29/300] Iter[  1/144]	
+Epoch [ 29/300] Iter[101/144]	
+Training acc =  88.92144097222223
+| Test Epoch #29	 Accuracy: 91.27%
+Saving best!
+Train Nets
+Epoch [ 30/300] Iter[  1/144]	
+Epoch [ 30/300] Iter[101/144]	
+Training acc =  89.6484375
+| Test Epoch #30	 Accuracy: 91.64%
+Saving best!
+Train Nets
+Epoch [ 31/300] Iter[  1/144]	
+Epoch [ 31/300] Iter[101/144]	
+Training acc =  90.19639756944444
+| Test Epoch #31	 Accuracy: 91.93%
+Saving best!
+Train Nets
+Epoch [ 32/300] Iter[  1/144]	
+Epoch [ 32/300] Iter[101/144]	
+Training acc =  90.21809895833333
+| Test Epoch #32	 Accuracy: 92.23%
+Saving best!
+Train Nets
+Epoch [ 33/300] Iter[  1/144]	
+Epoch [ 33/300] Iter[101/144]	
+Training acc =  90.40256076388889
+| Test Epoch #33	 Accuracy: 92.48%
+Saving best!
+Train Nets
+Epoch [ 34/300] Iter[  1/144]	
+Epoch [ 34/300] Iter[101/144]	
+Training acc =  90.71723090277777
+| Test Epoch #34	 Accuracy: 92.74%
+Saving best!
+Train Nets
+Epoch [ 35/300] Iter[  1/144]	
+Epoch [ 35/300] Iter[101/144]	
+Training acc =  91.35199652777777
+| Test Epoch #35	 Accuracy: 93.05%
+Saving best!
+Train Nets
+Epoch [ 36/300] Iter[  1/144]	
+Epoch [ 36/300] Iter[101/144]	
+Training acc =  91.47135416666667
+| Test Epoch #36	 Accuracy: 93.31%
+Saving best!
+Train Nets
+Epoch [ 37/300] Iter[  1/144]	
+Epoch [ 37/300] Iter[101/144]	
+Training acc =  91.75347222222223
+| Test Epoch #37	 Accuracy: 93.49%
+Saving best!
+Train Nets
+Epoch [ 38/300] Iter[  1/144]	
+Epoch [ 38/300] Iter[101/144]	
+Training acc =  92.02473958333333
+| Test Epoch #38	 Accuracy: 93.75%
+Saving best!
+Train Nets
+Epoch [ 39/300] Iter[  1/144]	
+Epoch [ 39/300] Iter[101/144]	
+Training acc =  92.138671875
+| Test Epoch #39	 Accuracy: 93.93%
+Saving best!
+Train Nets
+Epoch [ 40/300] Iter[  1/144]	
+Epoch [ 40/300] Iter[101/144]	
+Training acc =  92.28515625
+| Test Epoch #40	 Accuracy: 94.14%
+Saving best!
+Train Nets
+Epoch [ 41/300] Iter[  1/144]	
+Epoch [ 41/300] Iter[101/144]	
+Training acc =  92.65407986111111
+| Test Epoch #41	 Accuracy: 94.37%
+Saving best!
+Train Nets
+Epoch [ 42/300] Iter[  1/144]	
+Epoch [ 42/300] Iter[101/144]	
+Training acc =  92.66493055555556
+| Test Epoch #42	 Accuracy: 94.49%
+Saving best!
+Train Nets
+Epoch [ 43/300] Iter[  1/144]	
+Epoch [ 43/300] Iter[101/144]	
+Training acc =  93.00130208333333
+| Test Epoch #43	 Accuracy: 94.68%
+Saving best!
+Train Nets
+Epoch [ 44/300] Iter[  1/144]	
+Epoch [ 44/300] Iter[101/144]	
+Training acc =  93.51128472222223
+| Test Epoch #44	 Accuracy: 94.92%
+Saving best!
+Train Nets
+Epoch [ 45/300] Iter[  1/144]	
+Epoch [ 45/300] Iter[101/144]	
+Training acc =  93.52756076388889
+| Test Epoch #45	 Accuracy: 95.06%
+Saving best!
+Train Nets
+Epoch [ 46/300] Iter[  1/144]	
+Epoch [ 46/300] Iter[101/144]	
+Training acc =  93.77170138888889
+| Test Epoch #46	 Accuracy: 95.23%
+Saving best!
+Train Nets
+Epoch [ 47/300] Iter[  1/144]	
+Epoch [ 47/300] Iter[101/144]	
+Training acc =  93.86393229166667
+| Test Epoch #47	 Accuracy: 95.29%
+Saving best!
+Train Nets
+Epoch [ 48/300] Iter[  1/144]	
+Epoch [ 48/300] Iter[101/144]	
+Training acc =  93.96158854166667
+| Test Epoch #48	 Accuracy: 95.46%
+Saving best!
+Train Nets
+Epoch [ 49/300] Iter[  1/144]	
+Epoch [ 49/300] Iter[101/144]	
+Training acc =  94.27083333333333
+| Test Epoch #49	 Accuracy: 95.63%
+Saving best!
+Train Nets
+Epoch [ 50/300] Iter[  1/144]	
+Epoch [ 50/300] Iter[101/144]	
+Training acc =  94.41189236111111
+| Test Epoch #50	 Accuracy: 95.77%
+Saving best!
+Train Nets
+Epoch [ 51/300] Iter[  1/144]	
+Epoch [ 51/300] Iter[101/144]	
+Training acc =  94.62890625
+| Test Epoch #51	 Accuracy: 95.92%
+Saving best!
+Train Nets
+Epoch [ 52/300] Iter[  1/144]	
+Epoch [ 52/300] Iter[101/144]	
+Training acc =  94.50412326388889
+| Test Epoch #52	 Accuracy: 96.16%
+Saving best!
+Train Nets
+Epoch [ 53/300] Iter[  1/144]	
+Epoch [ 53/300] Iter[101/144]	
+Training acc =  94.78624131944444
+| Test Epoch #53	 Accuracy: 96.21%
+Saving best!
+Train Nets
+Epoch [ 54/300] Iter[  1/144]	
+Epoch [ 54/300] Iter[101/144]	
+Training acc =  95.02495659722223
+| Test Epoch #54	 Accuracy: 96.33%
+Saving best!
+Train Nets
+Epoch [ 55/300] Iter[  1/144]	
+Epoch [ 55/300] Iter[101/144]	
+Training acc =  95.29079861111111
+| Test Epoch #55	 Accuracy: 96.51%
+Saving best!
+Train Nets
+Epoch [ 56/300] Iter[  1/144]	
+Epoch [ 56/300] Iter[101/144]	
+Training acc =  95.3125
+| Test Epoch #56	 Accuracy: 96.62%
+Saving best!
+Train Nets
+Epoch [ 57/300] Iter[  1/144]	
+Epoch [ 57/300] Iter[101/144]	
+Training acc =  95.62717013888889
+| Test Epoch #57	 Accuracy: 96.67%
+Saving best!
+Train Nets
+Epoch [ 58/300] Iter[  1/144]	
+Epoch [ 58/300] Iter[101/144]	
+Training acc =  95.50238715277777
+| Test Epoch #58	 Accuracy: 96.84%
+Saving best!
+Train Nets
+Epoch [ 59/300] Iter[  1/144]	
+Epoch [ 59/300] Iter[101/144]	
+Training acc =  95.82248263888889
+| Test Epoch #59	 Accuracy: 96.90%
+Saving best!
+Train Nets
+Epoch [ 60/300] Iter[  1/144]	
+Epoch [ 60/300] Iter[101/144]	
+Training acc =  95.947265625
+| Test Epoch #60	 Accuracy: 97.04%
+Saving best!
+Train Nets
+Epoch [ 61/300] Iter[  1/144]	
+Epoch [ 61/300] Iter[101/144]	
+Training acc =  95.90928819444444
+| Test Epoch #61	 Accuracy: 97.08%
+Saving best!
+Train Nets
+Epoch [ 62/300] Iter[  1/144]	
+Epoch [ 62/300] Iter[101/144]	
+Training acc =  95.86046006944444
+| Test Epoch #62	 Accuracy: 97.23%
+Saving best!
+Train Nets
+Epoch [ 63/300] Iter[  1/144]	
+Epoch [ 63/300] Iter[101/144]	
+Training acc =  96.19140625
+| Test Epoch #63	 Accuracy: 97.31%
+Saving best!
+Train Nets
+Epoch [ 64/300] Iter[  1/144]	
+Epoch [ 64/300] Iter[101/144]	
+Training acc =  96.18598090277777
+| Test Epoch #64	 Accuracy: 97.46%
+Saving best!
+Train Nets
+Epoch [ 65/300] Iter[  1/144]	
+Epoch [ 65/300] Iter[101/144]	
+Training acc =  96.46809895833333
+| Test Epoch #65	 Accuracy: 97.48%
+Saving best!
+Train Nets
+Epoch [ 66/300] Iter[  1/144]	
+Epoch [ 66/300] Iter[101/144]	
+Training acc =  96.38129340277777
+| Test Epoch #66	 Accuracy: 97.50%
+Saving best!
+Train Nets
+Epoch [ 67/300] Iter[  1/144]	
+Epoch [ 67/300] Iter[101/144]	
+Training acc =  96.56032986111111
+| Test Epoch #67	 Accuracy: 97.61%
+Saving best!
+Train Nets
+Epoch [ 68/300] Iter[  1/144]	
+Epoch [ 68/300] Iter[101/144]	
+Training acc =  96.62543402777777
+| Test Epoch #68	 Accuracy: 97.78%
+Saving best!
+Train Nets
+Epoch [ 69/300] Iter[  1/144]	
+Epoch [ 69/300] Iter[101/144]	
+Training acc =  96.73936631944444
+| Test Epoch #69	 Accuracy: 97.76%
+Train Nets
+Epoch [ 70/300] Iter[  1/144]	
+Epoch [ 70/300] Iter[101/144]	
+Training acc =  96.71223958333333
+| Test Epoch #70	 Accuracy: 97.85%
+Saving best!
+Train Nets
+Epoch [ 71/300] Iter[  1/144]	
+Epoch [ 71/300] Iter[101/144]	
+Training acc =  96.91840277777777
+| Test Epoch #71	 Accuracy: 97.89%
+Saving best!
+Train Nets
+Epoch [ 72/300] Iter[  1/144]	
+Epoch [ 72/300] Iter[101/144]	
+Training acc =  97.119140625
+| Test Epoch #72	 Accuracy: 97.95%
+Saving best!
+Train Nets
+Epoch [ 73/300] Iter[  1/144]	
+Epoch [ 73/300] Iter[101/144]	
+Training acc =  97.19509548611111
+| Test Epoch #73	 Accuracy: 98.00%
+Saving best!
+Train Nets
+Epoch [ 74/300] Iter[  1/144]	
+Epoch [ 74/300] Iter[101/144]	
+Training acc =  97.23849826388889
+| Test Epoch #74	 Accuracy: 98.06%
+Saving best!
+Train Nets
+Epoch [ 75/300] Iter[  1/144]	
+Epoch [ 75/300] Iter[101/144]	
+Training acc =  97.38498263888889
+| Test Epoch #75	 Accuracy: 98.13%
+Saving best!
+Train Nets
+Epoch [ 76/300] Iter[  1/144]	
+Epoch [ 76/300] Iter[101/144]	
+Training acc =  97.40125868055556
+| Test Epoch #76	 Accuracy: 98.22%
+Saving best!
+Train Nets
+Epoch [ 77/300] Iter[  1/144]	
+Epoch [ 77/300] Iter[101/144]	
+Training acc =  97.38498263888889
+| Test Epoch #77	 Accuracy: 98.28%
+Saving best!
+Train Nets
+Epoch [ 78/300] Iter[  1/144]	
+Epoch [ 78/300] Iter[101/144]	
+Training acc =  97.41753472222223
+| Test Epoch #78	 Accuracy: 98.29%
+Saving best!
+Train Nets
+Epoch [ 79/300] Iter[  1/144]	
+Epoch [ 79/300] Iter[101/144]	
+Training acc =  97.39583333333333
+| Test Epoch #79	 Accuracy: 98.35%
+Saving best!
+Train Nets
+Epoch [ 80/300] Iter[  1/144]	
+Epoch [ 80/300] Iter[101/144]	
+Training acc =  97.509765625
+| Test Epoch #80	 Accuracy: 98.38%
+Saving best!
+Train Nets
+Epoch [ 81/300] Iter[  1/144]	
+Epoch [ 81/300] Iter[101/144]	
+Training acc =  97.73763020833333
+| Test Epoch #81	 Accuracy: 98.39%
+Saving best!
+Train Nets
+Epoch [ 82/300] Iter[  1/144]	
+Epoch [ 82/300] Iter[101/144]	
+Training acc =  97.63997395833333
+| Test Epoch #82	 Accuracy: 98.52%
+Saving best!
+Train Nets
+Epoch [ 83/300] Iter[  1/144]	
+Epoch [ 83/300] Iter[101/144]	
+Training acc =  97.67795138888889
+| Test Epoch #83	 Accuracy: 98.52%
+Train Nets
+Epoch [ 84/300] Iter[  1/144]	
+Epoch [ 84/300] Iter[101/144]	
+Training acc =  97.84613715277777
+| Test Epoch #84	 Accuracy: 98.54%
+Saving best!
+Train Nets
+Epoch [ 85/300] Iter[  1/144]	
+Epoch [ 85/300] Iter[101/144]	
+Training acc =  97.86241319444444
+| Test Epoch #85	 Accuracy: 98.59%
+Saving best!
+Train Nets
+Epoch [ 86/300] Iter[  1/144]	
+Epoch [ 86/300] Iter[101/144]	
+Training acc =  97.87326388888889
+| Test Epoch #86	 Accuracy: 98.64%
+Saving best!
+Train Nets
+Epoch [ 87/300] Iter[  1/144]	
+Epoch [ 87/300] Iter[101/144]	
+Training acc =  97.79188368055556
+| Test Epoch #87	 Accuracy: 98.68%
+Saving best!
+Train Nets
+Epoch [ 88/300] Iter[  1/144]	
+Epoch [ 88/300] Iter[101/144]	
+Training acc =  97.88411458333333
+| Test Epoch #88	 Accuracy: 98.71%
+Saving best!
+Train Nets
+Epoch [ 89/300] Iter[  1/144]	
+Epoch [ 89/300] Iter[101/144]	
+Training acc =  97.98177083333333
+| Test Epoch #89	 Accuracy: 98.69%
+Train Nets
+Epoch [ 90/300] Iter[  1/144]	
+Epoch [ 90/300] Iter[101/144]	
+Training acc =  98.08485243055556
+| Test Epoch #90	 Accuracy: 98.75%
+Saving best!
+Train Nets
+Epoch [ 91/300] Iter[  1/144]	
+Epoch [ 91/300] Iter[101/144]	
+Training acc =  98.03602430555556
+| Test Epoch #91	 Accuracy: 98.81%
+Saving best!
+Train Nets
+Epoch [ 92/300] Iter[  1/144]	
+Epoch [ 92/300] Iter[101/144]	
+Training acc =  98.13368055555556
+| Test Epoch #92	 Accuracy: 98.75%
+Train Nets
+Epoch [ 93/300] Iter[  1/144]	
+Epoch [ 93/300] Iter[101/144]	
+Training acc =  98.17165798611111
+| Test Epoch #93	 Accuracy: 98.83%
+Saving best!
+Train Nets
+Epoch [ 94/300] Iter[  1/144]	
+Epoch [ 94/300] Iter[101/144]	
+Training acc =  98.193359375
+| Test Epoch #94	 Accuracy: 98.83%
+Train Nets
+Epoch [ 95/300] Iter[  1/144]	
+Epoch [ 95/300] Iter[101/144]	
+Training acc =  98.22591145833333
+| Test Epoch #95	 Accuracy: 98.86%
+Saving best!
+Train Nets
+Epoch [ 96/300] Iter[  1/144]	
+Epoch [ 96/300] Iter[101/144]	
+Training acc =  98.095703125
+| Test Epoch #96	 Accuracy: 98.86%
+Saving best!
+Train Nets
+Epoch [ 97/300] Iter[  1/144]	
+Epoch [ 97/300] Iter[101/144]	
+Training acc =  98.42664930555556
+| Test Epoch #97	 Accuracy: 98.89%
+Saving best!
+Train Nets
+Epoch [ 98/300] Iter[  1/144]	
+Epoch [ 98/300] Iter[101/144]	
+Training acc =  98.26388888888889
+| Test Epoch #98	 Accuracy: 98.92%
+Saving best!
+Train Nets
+Epoch [ 99/300] Iter[  1/144]	
+Epoch [ 99/300] Iter[101/144]	
+Training acc =  98.36697048611111
+| Test Epoch #99	 Accuracy: 98.89%
+Train Nets
+Epoch [100/300] Iter[  1/144]	
+Epoch [100/300] Iter[101/144]	
+Training acc =  98.32356770833333
+| Test Epoch #100	 Accuracy: 98.96%
+Saving best!
+Train Nets
+Epoch [101/300] Iter[  1/144]	
+Epoch [101/300] Iter[101/144]	
+Training acc =  98.40494791666667
+| Test Epoch #101	 Accuracy: 98.93%
+Train Nets
+Epoch [102/300] Iter[  1/144]	
+Epoch [102/300] Iter[101/144]	
+Training acc =  98.47547743055556
+| Test Epoch #102	 Accuracy: 98.95%
+Train Nets
+Epoch [103/300] Iter[  1/144]	
+Epoch [103/300] Iter[101/144]	
+Training acc =  98.52973090277777
+| Test Epoch #103	 Accuracy: 98.95%
+Train Nets
+Epoch [104/300] Iter[  1/144]	
+Epoch [104/300] Iter[101/144]	
+Training acc =  98.50260416666667
+| Test Epoch #104	 Accuracy: 98.94%
+Train Nets
+Epoch [105/300] Iter[  1/144]	
+Epoch [105/300] Iter[101/144]	
+Training acc =  98.40494791666667
+| Test Epoch #105	 Accuracy: 98.96%
+Saving best!
+Train Nets
+Epoch [106/300] Iter[  1/144]	
+Epoch [106/300] Iter[101/144]	
+Training acc =  98.41037326388889
+| Test Epoch #106	 Accuracy: 99.06%
+Saving best!
+Train Nets
+Epoch [107/300] Iter[  1/144]	
+Epoch [107/300] Iter[101/144]	
+Training acc =  98.49717881944444
+| Test Epoch #107	 Accuracy: 99.02%
+Train Nets
+Epoch [108/300] Iter[  1/144]	
+Epoch [108/300] Iter[101/144]	
+Training acc =  98.51345486111111
+| Test Epoch #108	 Accuracy: 99.03%
+Train Nets
+Epoch [109/300] Iter[  1/144]	
+Epoch [109/300] Iter[101/144]	
+Training acc =  98.53515625
+| Test Epoch #109	 Accuracy: 99.06%
+Train Nets
+Epoch [110/300] Iter[  1/144]	
+Epoch [110/300] Iter[101/144]	
+Training acc =  98.486328125
+| Test Epoch #110	 Accuracy: 99.07%
+Saving best!
+Train Nets
+Epoch [111/300] Iter[  1/144]	
+Epoch [111/300] Iter[101/144]	
+Training acc =  98.61111111111111
+| Test Epoch #111	 Accuracy: 99.11%
+Saving best!
+Train Nets
+Epoch [112/300] Iter[  1/144]	
+Epoch [112/300] Iter[101/144]	
+Training acc =  98.57855902777777
+| Test Epoch #112	 Accuracy: 99.08%
+Train Nets
+Epoch [113/300] Iter[  1/144]	
+Epoch [113/300] Iter[101/144]	
+Training acc =  98.61653645833333
+| Test Epoch #113	 Accuracy: 99.10%
+Train Nets
+Epoch [114/300] Iter[  1/144]	
+Epoch [114/300] Iter[101/144]	
+Training acc =  98.60568576388889
+| Test Epoch #114	 Accuracy: 99.12%
+Saving best!
+Train Nets
+Epoch [115/300] Iter[  1/144]	
+Epoch [115/300] Iter[101/144]	
+Training acc =  98.64366319444444
+| Test Epoch #115	 Accuracy: 99.13%
+Saving best!
+Train Nets
+Epoch [116/300] Iter[  1/144]	
+Epoch [116/300] Iter[101/144]	
+Training acc =  98.76302083333333
+| Test Epoch #116	 Accuracy: 99.15%
+Saving best!
+Train Nets
+Epoch [117/300] Iter[  1/144]	
+Epoch [117/300] Iter[101/144]	
+Training acc =  98.6328125
+| Test Epoch #117	 Accuracy: 99.15%
+Train Nets
+Epoch [118/300] Iter[  1/144]	
+Epoch [118/300] Iter[101/144]	
+Training acc =  98.78472222222223
+| Test Epoch #118	 Accuracy: 99.13%
+Train Nets
+Epoch [119/300] Iter[  1/144]	
+Epoch [119/300] Iter[101/144]	
+Training acc =  98.72504340277777
+| Test Epoch #119	 Accuracy: 99.12%
+Train Nets
+Epoch [120/300] Iter[  1/144]	
+Epoch [120/300] Iter[101/144]	
+Training acc =  98.75759548611111
+| Test Epoch #120	 Accuracy: 99.18%
+Saving best!
+Train Nets
+Epoch [121/300] Iter[  1/144]	
+Epoch [121/300] Iter[101/144]	
+Training acc =  98.70334201388889
+| Test Epoch #121	 Accuracy: 99.17%
+Train Nets
+Epoch [122/300] Iter[  1/144]	
+Epoch [122/300] Iter[101/144]	
+Training acc =  98.83355034722223
+| Test Epoch #122	 Accuracy: 99.19%
+Saving best!
+Train Nets
+Epoch [123/300] Iter[  1/144]	
+Epoch [123/300] Iter[101/144]	
+Training acc =  98.84982638888889
+| Test Epoch #123	 Accuracy: 99.19%
+Train Nets
+Epoch [124/300] Iter[  1/144]	
+Epoch [124/300] Iter[101/144]	
+Training acc =  98.80099826388889
+| Test Epoch #124	 Accuracy: 99.17%
+Train Nets
+Epoch [125/300] Iter[  1/144]	
+Epoch [125/300] Iter[101/144]	
+Training acc =  98.81727430555556
+| Test Epoch #125	 Accuracy: 99.22%
+Saving best!
+Train Nets
+Epoch [126/300] Iter[  1/144]	
+Epoch [126/300] Iter[101/144]	
+Training acc =  98.81727430555556
+| Test Epoch #126	 Accuracy: 99.20%
+Train Nets
+Epoch [127/300] Iter[  1/144]	
+Epoch [127/300] Iter[101/144]	
+Training acc =  98.92578125
+| Test Epoch #127	 Accuracy: 99.17%
+Train Nets
+Epoch [128/300] Iter[  1/144]	
+Epoch [128/300] Iter[101/144]	
+Training acc =  98.95290798611111
+| Test Epoch #128	 Accuracy: 99.25%
+Saving best!
+Train Nets
+Epoch [129/300] Iter[  1/144]	
+Epoch [129/300] Iter[101/144]	
+Training acc =  98.77387152777777
+| Test Epoch #129	 Accuracy: 99.23%
+Train Nets
+Epoch [130/300] Iter[  1/144]	
+Epoch [130/300] Iter[101/144]	
+Training acc =  98.91493055555556
+| Test Epoch #130	 Accuracy: 99.25%
+Saving best!
+Train Nets
+Epoch [131/300] Iter[  1/144]	
+Epoch [131/300] Iter[101/144]	
+Training acc =  98.81727430555556
+| Test Epoch #131	 Accuracy: 99.26%
+Saving best!
+Train Nets
+Epoch [132/300] Iter[  1/144]	
+Epoch [132/300] Iter[101/144]	
+Training acc =  98.89865451388889
+| Test Epoch #132	 Accuracy: 99.27%
+Saving best!
+Train Nets
+Epoch [133/300] Iter[  1/144]	
+Epoch [133/300] Iter[101/144]	
+Training acc =  98.876953125
+| Test Epoch #133	 Accuracy: 99.24%
+Train Nets
+Epoch [134/300] Iter[  1/144]	
+Epoch [134/300] Iter[101/144]	
+Training acc =  98.90407986111111
+| Test Epoch #134	 Accuracy: 99.25%
+Train Nets
+Epoch [135/300] Iter[  1/144]	
+Epoch [135/300] Iter[101/144]	
+Training acc =  98.92035590277777
+| Test Epoch #135	 Accuracy: 99.24%
+Train Nets
+Epoch [136/300] Iter[  1/144]	
+Epoch [136/300] Iter[101/144]	
+Training acc =  98.84982638888889
+| Test Epoch #136	 Accuracy: 99.24%
+Train Nets
+Epoch [137/300] Iter[  1/144]	
+Epoch [137/300] Iter[101/144]	
+Training acc =  98.98003472222223
+| Test Epoch #137	 Accuracy: 99.26%
+Train Nets
+Epoch [138/300] Iter[  1/144]	
+Epoch [138/300] Iter[101/144]	
+Training acc =  98.95833333333333
+| Test Epoch #138	 Accuracy: 99.26%
+Train Nets
+Epoch [139/300] Iter[  1/144]	
+Epoch [139/300] Iter[101/144]	
+Training acc =  98.95290798611111
+| Test Epoch #139	 Accuracy: 99.26%
+Train Nets
+Epoch [140/300] Iter[  1/144]	
+Epoch [140/300] Iter[101/144]	
+Training acc =  98.93663194444444
+| Test Epoch #140	 Accuracy: 99.29%
+Saving best!
+Train Nets
+Epoch [141/300] Iter[  1/144]	
+Epoch [141/300] Iter[101/144]	
+Training acc =  99.00716145833333
+| Test Epoch #141	 Accuracy: 99.25%
+Train Nets
+Epoch [142/300] Iter[  1/144]	
+Epoch [142/300] Iter[101/144]	
+Training acc =  99.03971354166667
+| Test Epoch #142	 Accuracy: 99.28%
+Train Nets
+Epoch [143/300] Iter[  1/144]	
+Epoch [143/300] Iter[101/144]	
+Training acc =  98.99088541666667
+| Test Epoch #143	 Accuracy: 99.28%
+Train Nets
+Epoch [144/300] Iter[  1/144]	
+Epoch [144/300] Iter[101/144]	
+Training acc =  98.99088541666667
+| Test Epoch #144	 Accuracy: 99.28%
+Train Nets
+Epoch [145/300] Iter[  1/144]	
+Epoch [145/300] Iter[101/144]	
+Training acc =  98.94205729166667
+| Test Epoch #145	 Accuracy: 99.27%
+Train Nets
+Epoch [146/300] Iter[  1/144]	
+Epoch [146/300] Iter[101/144]	
+Training acc =  99.03428819444444
+| Test Epoch #146	 Accuracy: 99.28%
+Train Nets
+Epoch [147/300] Iter[  1/144]	
+Epoch [147/300] Iter[101/144]	
+Training acc =  99.08854166666667
+| Test Epoch #147	 Accuracy: 99.31%
+Saving best!
+Train Nets
+Epoch [148/300] Iter[  1/144]	
+Epoch [148/300] Iter[101/144]	
+Training acc =  99.06684027777777
+| Test Epoch #148	 Accuracy: 99.28%
+Train Nets
+Epoch [149/300] Iter[  1/144]	
+Epoch [149/300] Iter[101/144]	
+Training acc =  99.01258680555556
+| Test Epoch #149	 Accuracy: 99.28%
+Train Nets
+Epoch [150/300] Iter[  1/144]	
+Epoch [150/300] Iter[101/144]	
+Training acc =  99.01258680555556
+| Test Epoch #150	 Accuracy: 99.29%
+Train Nets
+Epoch [151/300] Iter[  1/144]	
+Epoch [151/300] Iter[101/144]	
+Training acc =  99.05056423611111
+| Test Epoch #151	 Accuracy: 99.31%
+Train Nets
+Epoch [152/300] Iter[  1/144]	
+Epoch [152/300] Iter[101/144]	
+Training acc =  99.07769097222223
+| Test Epoch #152	 Accuracy: 99.32%
+Saving best!
+Train Nets
+Epoch [153/300] Iter[  1/144]	
+Epoch [153/300] Iter[101/144]	
+Training acc =  99.05056423611111
+| Test Epoch #153	 Accuracy: 99.29%
+Train Nets
+Epoch [154/300] Iter[  1/144]	
+Epoch [154/300] Iter[101/144]	
+Training acc =  99.01801215277777
+| Test Epoch #154	 Accuracy: 99.32%
+Saving best!
+Train Nets
+Epoch [155/300] Iter[  1/144]	
+Epoch [155/300] Iter[101/144]	
+Training acc =  99.12651909722223
+| Test Epoch #155	 Accuracy: 99.29%
+Train Nets
+Epoch [156/300] Iter[  1/144]	
+Epoch [156/300] Iter[101/144]	
+Training acc =  99.06141493055556
+| Test Epoch #156	 Accuracy: 99.29%
+Train Nets
+Epoch [157/300] Iter[  1/144]	
+Epoch [157/300] Iter[101/144]	
+Training acc =  99.08854166666667
+| Test Epoch #157	 Accuracy: 99.33%
+Saving best!
+Train Nets
+Epoch [158/300] Iter[  1/144]	
+Epoch [158/300] Iter[101/144]	
+Training acc =  99.08854166666667
+| Test Epoch #158	 Accuracy: 99.30%
+Train Nets
+Epoch [159/300] Iter[  1/144]	
+Epoch [159/300] Iter[101/144]	
+Training acc =  99.08854166666667
+| Test Epoch #159	 Accuracy: 99.32%
+Train Nets
+Epoch [160/300] Iter[  1/144]	
+Epoch [160/300] Iter[101/144]	
+Training acc =  99.09396701388889
+| Test Epoch #160	 Accuracy: 99.34%
+Saving best!
+Train Nets
+Epoch [161/300] Iter[  1/144]	
+Epoch [161/300] Iter[101/144]	
+Training acc =  99.12651909722223
+| Test Epoch #161	 Accuracy: 99.34%
+Train Nets
+Epoch [162/300] Iter[  1/144]	
+Epoch [162/300] Iter[101/144]	
+Training acc =  99.072265625
+| Test Epoch #162	 Accuracy: 99.33%
+Train Nets
+Epoch [163/300] Iter[  1/144]	
+Epoch [163/300] Iter[101/144]	
+Training acc =  99.08311631944444
+| Test Epoch #163	 Accuracy: 99.35%
+Saving best!
+Train Nets
+Epoch [164/300] Iter[  1/144]	
+Epoch [164/300] Iter[101/144]	
+Training acc =  99.02886284722223
+| Test Epoch #164	 Accuracy: 99.33%
+Train Nets
+Epoch [165/300] Iter[  1/144]	
+Epoch [165/300] Iter[101/144]	
+Training acc =  99.09396701388889
+| Test Epoch #165	 Accuracy: 99.34%
+Train Nets
+Epoch [166/300] Iter[  1/144]	
+Epoch [166/300] Iter[101/144]	
+Training acc =  99.10481770833333
+| Test Epoch #166	 Accuracy: 99.33%
+Train Nets
+Epoch [167/300] Iter[  1/144]	
+Epoch [167/300] Iter[101/144]	
+Training acc =  99.08311631944444
+| Test Epoch #167	 Accuracy: 99.33%
+Train Nets
+Epoch [168/300] Iter[  1/144]	
+Epoch [168/300] Iter[101/144]	
+Training acc =  99.09939236111111
+| Test Epoch #168	 Accuracy: 99.37%
+Saving best!
+Train Nets
+Epoch [169/300] Iter[  1/144]	
+Epoch [169/300] Iter[101/144]	
+Training acc =  99.10481770833333
+| Test Epoch #169	 Accuracy: 99.35%
+Train Nets
+Epoch [170/300] Iter[  1/144]	
+Epoch [170/300] Iter[101/144]	
+Training acc =  99.24045138888889
+| Test Epoch #170	 Accuracy: 99.35%
+Train Nets
+Epoch [171/300] Iter[  1/144]	
+Epoch [171/300] Iter[101/144]	
+Training acc =  99.06141493055556
+| Test Epoch #171	 Accuracy: 99.34%
+Train Nets
+Epoch [172/300] Iter[  1/144]	
+Epoch [172/300] Iter[101/144]	
+Training acc =  99.11566840277777
+| Test Epoch #172	 Accuracy: 99.35%
+Train Nets
+Epoch [173/300] Iter[  1/144]	
+Epoch [173/300] Iter[101/144]	
+Training acc =  99.18077256944444
+| Test Epoch #173	 Accuracy: 99.33%
+Train Nets
+Epoch [174/300] Iter[  1/144]	
+Epoch [174/300] Iter[101/144]	
+Training acc =  99.12651909722223
+| Test Epoch #174	 Accuracy: 99.37%
+Train Nets
+Epoch [175/300] Iter[  1/144]	
+Epoch [175/300] Iter[101/144]	
+Training acc =  99.11566840277777
+| Test Epoch #175	 Accuracy: 99.37%
+Train Nets
+Epoch [176/300] Iter[  1/144]	
+Epoch [176/300] Iter[101/144]	
+Training acc =  99.169921875
+| Test Epoch #176	 Accuracy: 99.38%
+Saving best!
+Train Nets
+Epoch [177/300] Iter[  1/144]	
+Epoch [177/300] Iter[101/144]	
+Training acc =  99.14279513888889
+| Test Epoch #177	 Accuracy: 99.39%
+Saving best!
+Train Nets
+Epoch [178/300] Iter[  1/144]	
+Epoch [178/300] Iter[101/144]	
+Training acc =  99.17534722222223
+| Test Epoch #178	 Accuracy: 99.37%
+Train Nets
+Epoch [179/300] Iter[  1/144]	
+Epoch [179/300] Iter[101/144]	
+Training acc =  99.15364583333333
+| Test Epoch #179	 Accuracy: 99.38%
+Train Nets
+Epoch [180/300] Iter[  1/144]	
+Epoch [180/300] Iter[101/144]	
+Training acc =  99.169921875
+| Test Epoch #180	 Accuracy: 99.38%
+Train Nets
+Epoch [181/300] Iter[  1/144]	
+Epoch [181/300] Iter[101/144]	
+Training acc =  99.14822048611111
+| Test Epoch #181	 Accuracy: 99.40%
+Saving best!
+Train Nets
+Epoch [182/300] Iter[  1/144]	
+Epoch [182/300] Iter[101/144]	
+Training acc =  99.14279513888889
+| Test Epoch #182	 Accuracy: 99.39%
+Train Nets
+Epoch [183/300] Iter[  1/144]	
+Epoch [183/300] Iter[101/144]	
+Training acc =  99.08311631944444
+| Test Epoch #183	 Accuracy: 99.37%
+Train Nets
+Epoch [184/300] Iter[  1/144]	
+Epoch [184/300] Iter[101/144]	
+Training acc =  99.22960069444444
+| Test Epoch #184	 Accuracy: 99.37%
+Train Nets
+Epoch [185/300] Iter[  1/144]	
+Epoch [185/300] Iter[101/144]	
+Training acc =  99.18619791666667
+| Test Epoch #185	 Accuracy: 99.39%
+Train Nets
+Epoch [186/300] Iter[  1/144]	
+Epoch [186/300] Iter[101/144]	
+Training acc =  99.20789930555556
+| Test Epoch #186	 Accuracy: 99.39%
+Train Nets
+Epoch [187/300] Iter[  1/144]	
+Epoch [187/300] Iter[101/144]	
+Training acc =  99.22417534722223
+| Test Epoch #187	 Accuracy: 99.38%
+Train Nets
+Epoch [188/300] Iter[  1/144]	
+Epoch [188/300] Iter[101/144]	
+Training acc =  99.15364583333333
+| Test Epoch #188	 Accuracy: 99.40%
+Train Nets
+Epoch [189/300] Iter[  1/144]	
+Epoch [189/300] Iter[101/144]	
+Training acc =  99.18077256944444
+| Test Epoch #189	 Accuracy: 99.39%
+Train Nets
+Epoch [190/300] Iter[  1/144]	
+Epoch [190/300] Iter[101/144]	
+Training acc =  99.19704861111111
+| Test Epoch #190	 Accuracy: 99.38%
+Train Nets
+Epoch [191/300] Iter[  1/144]	
+Epoch [191/300] Iter[101/144]	
+Training acc =  99.19704861111111
+| Test Epoch #191	 Accuracy: 99.37%
+Train Nets
+Epoch [192/300] Iter[  1/144]	
+Epoch [192/300] Iter[101/144]	
+Training acc =  99.14822048611111
+| Test Epoch #192	 Accuracy: 99.38%
+Train Nets
+Epoch [193/300] Iter[  1/144]	
+Epoch [193/300] Iter[101/144]	
+Training acc =  99.24045138888889
+| Test Epoch #193	 Accuracy: 99.39%
+Train Nets
+Epoch [194/300] Iter[  1/144]	
+Epoch [194/300] Iter[101/144]	
+Training acc =  99.22417534722223
+| Test Epoch #194	 Accuracy: 99.38%
+Train Nets
+Epoch [195/300] Iter[  1/144]	
+Epoch [195/300] Iter[101/144]	
+Training acc =  99.18619791666667
+| Test Epoch #195	 Accuracy: 99.39%
+Train Nets
+Epoch [196/300] Iter[  1/144]	
+Epoch [196/300] Iter[101/144]	
+Training acc =  99.27300347222223
+| Test Epoch #196	 Accuracy: 99.41%
+Saving best!
+Train Nets
+Epoch [197/300] Iter[  1/144]	
+Epoch [197/300] Iter[101/144]	
+Training acc =  99.19704861111111
+| Test Epoch #197	 Accuracy: 99.41%
+Train Nets
+Epoch [198/300] Iter[  1/144]	
+Epoch [198/300] Iter[101/144]	
+Training acc =  99.20247395833333
+| Test Epoch #198	 Accuracy: 99.38%
+Train Nets
+Epoch [199/300] Iter[  1/144]	
+Epoch [199/300] Iter[101/144]	
+Training acc =  99.21875
+| Test Epoch #199	 Accuracy: 99.39%
+Train Nets
+Epoch [200/300] Iter[  1/144]	
+Epoch [200/300] Iter[101/144]	
+Training acc =  99.24045138888889
+| Test Epoch #200	 Accuracy: 99.39%
+Train Nets
+Epoch [201/300] Iter[  1/144]	
+Epoch [201/300] Iter[101/144]	
+Training acc =  99.29470486111111
+| Test Epoch #201	 Accuracy: 99.39%
+Train Nets
+Epoch [202/300] Iter[  1/144]	
+Epoch [202/300] Iter[101/144]	
+Training acc =  99.22960069444444
+| Test Epoch #202	 Accuracy: 99.37%
+Train Nets
+Epoch [203/300] Iter[  1/144]	
+Epoch [203/300] Iter[101/144]	
+Training acc =  99.30013020833333
+| Test Epoch #203	 Accuracy: 99.39%
+Train Nets
+Epoch [204/300] Iter[  1/144]	
+Epoch [204/300] Iter[101/144]	
+Training acc =  99.32183159722223
+| Test Epoch #204	 Accuracy: 99.39%
+Train Nets
+Epoch [205/300] Iter[  1/144]	
+Epoch [205/300] Iter[101/144]	
+Training acc =  99.23502604166667
+| Test Epoch #205	 Accuracy: 99.39%
+Train Nets
+Epoch [206/300] Iter[  1/144]	
+Epoch [206/300] Iter[101/144]	
+Training acc =  99.30013020833333
+| Test Epoch #206	 Accuracy: 99.38%
+Train Nets
+Epoch [207/300] Iter[  1/144]	
+Epoch [207/300] Iter[101/144]	
+Training acc =  99.27842881944444
+| Test Epoch #207	 Accuracy: 99.40%
+Train Nets
+Epoch [208/300] Iter[  1/144]	
+Epoch [208/300] Iter[101/144]	
+Training acc =  99.27300347222223
+| Test Epoch #208	 Accuracy: 99.37%
+Train Nets
+Epoch [209/300] Iter[  1/144]	
+Epoch [209/300] Iter[101/144]	
+Training acc =  99.30555555555556
+| Test Epoch #209	 Accuracy: 99.40%
+Train Nets
+Epoch [210/300] Iter[  1/144]	
+Epoch [210/300] Iter[101/144]	
+Training acc =  99.25672743055556
+| Test Epoch #210	 Accuracy: 99.39%
+Train Nets
+Epoch [211/300] Iter[  1/144]	
+Epoch [211/300] Iter[101/144]	
+Training acc =  99.21332465277777
+| Test Epoch #211	 Accuracy: 99.39%
+Train Nets
+Epoch [212/300] Iter[  1/144]	
+Epoch [212/300] Iter[101/144]	
+Training acc =  99.27842881944444
+| Test Epoch #212	 Accuracy: 99.39%
+Train Nets
+Epoch [213/300] Iter[  1/144]	
+Epoch [213/300] Iter[101/144]	
+Training acc =  99.25130208333333
+| Test Epoch #213	 Accuracy: 99.41%
+Train Nets
+Epoch [214/300] Iter[  1/144]	
+Epoch [214/300] Iter[101/144]	
+Training acc =  99.27300347222223
+| Test Epoch #214	 Accuracy: 99.39%
+Train Nets
+Epoch [215/300] Iter[  1/144]	
+Epoch [215/300] Iter[101/144]	
+Training acc =  99.27300347222223
+| Test Epoch #215	 Accuracy: 99.39%
+Train Nets
+Epoch [216/300] Iter[  1/144]	
+Epoch [216/300] Iter[101/144]	
+Training acc =  99.22417534722223
+| Test Epoch #216	 Accuracy: 99.39%
+Train Nets
+Epoch [217/300] Iter[  1/144]	
+Epoch [217/300] Iter[101/144]	
+Training acc =  99.28385416666667
+| Test Epoch #217	 Accuracy: 99.38%
+Train Nets
+Epoch [218/300] Iter[  1/144]	
+Epoch [218/300] Iter[101/144]	
+Training acc =  99.28385416666667
+| Test Epoch #218	 Accuracy: 99.41%
+Train Nets
+Epoch [219/300] Iter[  1/144]	
+Epoch [219/300] Iter[101/144]	
+Training acc =  99.31640625
+| Test Epoch #219	 Accuracy: 99.39%
+Train Nets
+Epoch [220/300] Iter[  1/144]	
+Epoch [220/300] Iter[101/144]	
+Training acc =  99.28385416666667
+| Test Epoch #220	 Accuracy: 99.40%
+Train Nets
+Epoch [221/300] Iter[  1/144]	
+Epoch [221/300] Iter[101/144]	
+Training acc =  99.23502604166667
+| Test Epoch #221	 Accuracy: 99.42%
+Saving best!
+Train Nets
+Epoch [222/300] Iter[  1/144]	
+Epoch [222/300] Iter[101/144]	
+Training acc =  99.22417534722223
+| Test Epoch #222	 Accuracy: 99.42%
+Train Nets
+Epoch [223/300] Iter[  1/144]	
+Epoch [223/300] Iter[101/144]	
+Training acc =  99.25672743055556
+| Test Epoch #223	 Accuracy: 99.42%
+Train Nets
+Epoch [224/300] Iter[  1/144]	
+Epoch [224/300] Iter[101/144]	
+Training acc =  99.25672743055556
+| Test Epoch #224	 Accuracy: 99.43%
+Saving best!
+Train Nets
+Epoch [225/300] Iter[  1/144]	
+Epoch [225/300] Iter[101/144]	
+Training acc =  99.32725694444444
+| Test Epoch #225	 Accuracy: 99.40%
+Train Nets
+Epoch [226/300] Iter[  1/144]	
+Epoch [226/300] Iter[101/144]	
+Training acc =  99.27842881944444
+| Test Epoch #226	 Accuracy: 99.41%
+Train Nets
+Epoch [227/300] Iter[  1/144]	
+Epoch [227/300] Iter[101/144]	
+Training acc =  99.28927951388889
+| Test Epoch #227	 Accuracy: 99.41%
+Train Nets
+Epoch [228/300] Iter[  1/144]	
+Epoch [228/300] Iter[101/144]	
+Training acc =  99.30013020833333
+| Test Epoch #228	 Accuracy: 99.42%
+Train Nets
+Epoch [229/300] Iter[  1/144]	
+Epoch [229/300] Iter[101/144]	
+Training acc =  99.30013020833333
+| Test Epoch #229	 Accuracy: 99.41%
+Train Nets
+Epoch [230/300] Iter[  1/144]	
+Epoch [230/300] Iter[101/144]	
+Training acc =  99.28385416666667
+| Test Epoch #230	 Accuracy: 99.42%
+Train Nets
+Epoch [231/300] Iter[  1/144]	
+Epoch [231/300] Iter[101/144]	
+Training acc =  99.32183159722223
+| Test Epoch #231	 Accuracy: 99.42%
+Train Nets
+Epoch [232/300] Iter[  1/144]	
+Epoch [232/300] Iter[101/144]	
+Training acc =  99.21332465277777
+| Test Epoch #232	 Accuracy: 99.41%
+Train Nets
+Epoch [233/300] Iter[  1/144]	
+Epoch [233/300] Iter[101/144]	
+Training acc =  99.32725694444444
+| Test Epoch #233	 Accuracy: 99.42%
+Train Nets
+Epoch [234/300] Iter[  1/144]	
+Epoch [234/300] Iter[101/144]	
+Training acc =  99.33268229166667
+| Test Epoch #234	 Accuracy: 99.41%
+Train Nets
+Epoch [235/300] Iter[  1/144]	
+Epoch [235/300] Iter[101/144]	
+Training acc =  99.30013020833333
+| Test Epoch #235	 Accuracy: 99.41%
+Train Nets
+Epoch [236/300] Iter[  1/144]	
+Epoch [236/300] Iter[101/144]	
+Training acc =  99.28385416666667
+| Test Epoch #236	 Accuracy: 99.42%
+Train Nets
+Epoch [237/300] Iter[  1/144]	
+Epoch [237/300] Iter[101/144]	
+Training acc =  99.267578125
+| Test Epoch #237	 Accuracy: 99.41%
+Train Nets
+Epoch [238/300] Iter[  1/144]	
+Epoch [238/300] Iter[101/144]	
+Training acc =  99.26215277777777
+| Test Epoch #238	 Accuracy: 99.41%
+Train Nets
+Epoch [239/300] Iter[  1/144]	
+Epoch [239/300] Iter[101/144]	
+Training acc =  99.31098090277777
+| Test Epoch #239	 Accuracy: 99.42%
+Train Nets
+Epoch [240/300] Iter[  1/144]	
+Epoch [240/300] Iter[101/144]	
+Training acc =  99.25672743055556
+| Test Epoch #240	 Accuracy: 99.40%
+Train Nets
+Epoch [241/300] Iter[  1/144]	
+Epoch [241/300] Iter[101/144]	
+Training acc =  99.27842881944444
+| Test Epoch #241	 Accuracy: 99.42%
+Train Nets
+Epoch [242/300] Iter[  1/144]	
+Epoch [242/300] Iter[101/144]	
+Training acc =  99.26215277777777
+| Test Epoch #242	 Accuracy: 99.41%
+Train Nets
+Epoch [243/300] Iter[  1/144]	
+Epoch [243/300] Iter[101/144]	
+Training acc =  99.30013020833333
+| Test Epoch #243	 Accuracy: 99.41%
+Train Nets
+Epoch [244/300] Iter[  1/144]	
+Epoch [244/300] Iter[101/144]	
+Training acc =  99.24587673611111
+| Test Epoch #244	 Accuracy: 99.43%
+Train Nets
+Epoch [245/300] Iter[  1/144]	
+Epoch [245/300] Iter[101/144]	
+Training acc =  99.33810763888889
+| Test Epoch #245	 Accuracy: 99.42%
+Train Nets
+Epoch [246/300] Iter[  1/144]	
+Epoch [246/300] Iter[101/144]	
+Training acc =  99.267578125
+| Test Epoch #246	 Accuracy: 99.40%
+Train Nets
+Epoch [247/300] Iter[  1/144]	
+Epoch [247/300] Iter[101/144]	
+Training acc =  99.30013020833333
+| Test Epoch #247	 Accuracy: 99.44%
+Saving best!
+Train Nets
+Epoch [248/300] Iter[  1/144]	
+Epoch [248/300] Iter[101/144]	
+Training acc =  99.33268229166667
+| Test Epoch #248	 Accuracy: 99.42%
+Train Nets
+Epoch [249/300] Iter[  1/144]	
+Epoch [249/300] Iter[101/144]	
+Training acc =  99.32725694444444
+| Test Epoch #249	 Accuracy: 99.42%
+Train Nets
+Epoch [250/300] Iter[  1/144]	
+Epoch [250/300] Iter[101/144]	
+Training acc =  99.32183159722223
+| Test Epoch #250	 Accuracy: 99.44%
+Train Nets
+Epoch [251/300] Iter[  1/144]	
+Epoch [251/300] Iter[101/144]	
+Training acc =  99.30013020833333
+| Test Epoch #251	 Accuracy: 99.44%
+Train Nets
+Epoch [252/300] Iter[  1/144]	
+Epoch [252/300] Iter[101/144]	
+Training acc =  99.29470486111111
+| Test Epoch #252	 Accuracy: 99.45%
+Saving best!
+Train Nets
+Epoch [253/300] Iter[  1/144]	
+Epoch [253/300] Iter[101/144]	
+Training acc =  99.31098090277777
+| Test Epoch #253	 Accuracy: 99.43%
+Train Nets
+Epoch [254/300] Iter[  1/144]	
+Epoch [254/300] Iter[101/144]	
+Training acc =  99.30555555555556
+| Test Epoch #254	 Accuracy: 99.43%
+Train Nets
+Epoch [255/300] Iter[  1/144]	
+Epoch [255/300] Iter[101/144]	
+Training acc =  99.34895833333333
+| Test Epoch #255	 Accuracy: 99.42%
+Train Nets
+Epoch [256/300] Iter[  1/144]	
+Epoch [256/300] Iter[101/144]	
+Training acc =  99.32183159722223
+| Test Epoch #256	 Accuracy: 99.44%
+Train Nets
+Epoch [257/300] Iter[  1/144]	
+Epoch [257/300] Iter[101/144]	
+Training acc =  99.35980902777777
+| Test Epoch #257	 Accuracy: 99.43%
+Train Nets
+Epoch [258/300] Iter[  1/144]	
+Epoch [258/300] Iter[101/144]	
+Training acc =  99.35438368055556
+| Test Epoch #258	 Accuracy: 99.44%
+Train Nets
+Epoch [259/300] Iter[  1/144]	
+Epoch [259/300] Iter[101/144]	
+Training acc =  99.33268229166667
+| Test Epoch #259	 Accuracy: 99.42%
+Train Nets
+Epoch [260/300] Iter[  1/144]	
+Epoch [260/300] Iter[101/144]	
+Training acc =  99.32183159722223
+| Test Epoch #260	 Accuracy: 99.42%
+Train Nets
+Epoch [261/300] Iter[  1/144]	
+Epoch [261/300] Iter[101/144]	
+Training acc =  99.34895833333333
+| Test Epoch #261	 Accuracy: 99.45%
+Train Nets
+Epoch [262/300] Iter[  1/144]	
+Epoch [262/300] Iter[101/144]	
+Training acc =  99.33268229166667
+| Test Epoch #262	 Accuracy: 99.45%
+Train Nets
+Epoch [263/300] Iter[  1/144]	
+Epoch [263/300] Iter[101/144]	
+Training acc =  99.31098090277777
+| Test Epoch #263	 Accuracy: 99.45%
+Saving best!
+Train Nets
+Epoch [264/300] Iter[  1/144]	
+Epoch [264/300] Iter[101/144]	
+Training acc =  99.365234375
+| Test Epoch #264	 Accuracy: 99.46%
+Saving best!
+Train Nets
+Epoch [265/300] Iter[  1/144]	
+Epoch [265/300] Iter[101/144]	
+Training acc =  99.34353298611111
+| Test Epoch #265	 Accuracy: 99.44%
+Train Nets
+Epoch [266/300] Iter[  1/144]	
+Epoch [266/300] Iter[101/144]	
+Training acc =  99.27842881944444
+| Test Epoch #266	 Accuracy: 99.44%
+Train Nets
+Epoch [267/300] Iter[  1/144]	
+Epoch [267/300] Iter[101/144]	
+Training acc =  99.37065972222223
+| Test Epoch #267	 Accuracy: 99.45%
+Train Nets
+Epoch [268/300] Iter[  1/144]	
+Epoch [268/300] Iter[101/144]	
+Training acc =  99.30555555555556
+| Test Epoch #268	 Accuracy: 99.46%
+Train Nets
+Epoch [269/300] Iter[  1/144]	
+Epoch [269/300] Iter[101/144]	
+Training acc =  99.38151041666667
+| Test Epoch #269	 Accuracy: 99.44%
+Train Nets
+Epoch [270/300] Iter[  1/144]	
+Epoch [270/300] Iter[101/144]	
+Training acc =  99.35438368055556
+| Test Epoch #270	 Accuracy: 99.44%
+Train Nets
+Epoch [271/300] Iter[  1/144]	
+Epoch [271/300] Iter[101/144]	
+Training acc =  99.32725694444444
+| Test Epoch #271	 Accuracy: 99.44%
+Train Nets
+Epoch [272/300] Iter[  1/144]	
+Epoch [272/300] Iter[101/144]	
+Training acc =  99.31640625
+| Test Epoch #272	 Accuracy: 99.42%
+Train Nets
+Epoch [273/300] Iter[  1/144]	
+Epoch [273/300] Iter[101/144]	
+Training acc =  99.28927951388889
+| Test Epoch #273	 Accuracy: 99.44%
+Train Nets
+Epoch [274/300] Iter[  1/144]	
+Epoch [274/300] Iter[101/144]	
+Training acc =  99.34895833333333
+| Test Epoch #274	 Accuracy: 99.45%
+Train Nets
+Epoch [275/300] Iter[  1/144]	
+Epoch [275/300] Iter[101/144]	
+Training acc =  99.37608506944444
+| Test Epoch #275	 Accuracy: 99.45%
+Train Nets
+Epoch [276/300] Iter[  1/144]	
+Epoch [276/300] Iter[101/144]	
+Training acc =  99.34895833333333
+| Test Epoch #276	 Accuracy: 99.44%
+Train Nets
+Epoch [277/300] Iter[  1/144]	
+Epoch [277/300] Iter[101/144]	
+Training acc =  99.28927951388889
+| Test Epoch #277	 Accuracy: 99.41%
+Train Nets
+Epoch [278/300] Iter[  1/144]	
+Epoch [278/300] Iter[101/144]	
+Training acc =  99.34895833333333
+| Test Epoch #278	 Accuracy: 99.44%
+Train Nets
+Epoch [279/300] Iter[  1/144]	
+Epoch [279/300] Iter[101/144]	
+Training acc =  99.39236111111111
+| Test Epoch #279	 Accuracy: 99.45%
+Train Nets
+Epoch [280/300] Iter[  1/144]	
+Epoch [280/300] Iter[101/144]	
+Training acc =  99.33268229166667
+| Test Epoch #280	 Accuracy: 99.44%
+Train Nets
+Epoch [281/300] Iter[  1/144]	
+Epoch [281/300] Iter[101/144]	
+Training acc =  99.35980902777777
+| Test Epoch #281	 Accuracy: 99.45%
+Train Nets
+Epoch [282/300] Iter[  1/144]	
+Epoch [282/300] Iter[101/144]	
+Training acc =  99.34353298611111
+| Test Epoch #282	 Accuracy: 99.44%
+Train Nets
+Epoch [283/300] Iter[  1/144]	
+Epoch [283/300] Iter[101/144]	
+Training acc =  99.28927951388889
+| Test Epoch #283	 Accuracy: 99.45%
+Train Nets
+Epoch [284/300] Iter[  1/144]	
+Epoch [284/300] Iter[101/144]	
+Training acc =  99.31640625
+| Test Epoch #284	 Accuracy: 99.45%
+Train Nets
+Epoch [285/300] Iter[  1/144]	
+Epoch [285/300] Iter[101/144]	
+Training acc =  99.34353298611111
+| Test Epoch #285	 Accuracy: 99.44%
+Train Nets
+Epoch [286/300] Iter[  1/144]	
+Epoch [286/300] Iter[101/144]	
+Training acc =  99.34353298611111
+| Test Epoch #286	 Accuracy: 99.45%
+Train Nets
+Epoch [287/300] Iter[  1/144]	
+Epoch [287/300] Iter[101/144]	
+Training acc =  99.31640625
+| Test Epoch #287	 Accuracy: 99.45%
+Train Nets
+Epoch [288/300] Iter[  1/144]	
+Epoch [288/300] Iter[101/144]	
+Training acc =  99.33268229166667
+| Test Epoch #288	 Accuracy: 99.45%
+Train Nets
+Epoch [289/300] Iter[  1/144]	
+Epoch [289/300] Iter[101/144]	
+Training acc =  99.37065972222223
+| Test Epoch #289	 Accuracy: 99.42%
+Train Nets
+Epoch [290/300] Iter[  1/144]	
+Epoch [290/300] Iter[101/144]	
+Training acc =  99.43033854166667
+| Test Epoch #290	 Accuracy: 99.41%
+Train Nets
+Epoch [291/300] Iter[  1/144]	
+Epoch [291/300] Iter[101/144]	
+Training acc =  99.33810763888889
+| Test Epoch #291	 Accuracy: 99.42%
+Train Nets
+Epoch [292/300] Iter[  1/144]	
+Epoch [292/300] Iter[101/144]	
+Training acc =  99.34895833333333
+| Test Epoch #292	 Accuracy: 99.45%
+Train Nets
+Epoch [293/300] Iter[  1/144]	
+Epoch [293/300] Iter[101/144]	
+Training acc =  99.34895833333333
+| Test Epoch #293	 Accuracy: 99.45%
+Train Nets
+Epoch [294/300] Iter[  1/144]	
+Epoch [294/300] Iter[101/144]	
+Training acc =  99.39236111111111
+| Test Epoch #294	 Accuracy: 99.45%
+Train Nets
+Epoch [295/300] Iter[  1/144]	
+Epoch [295/300] Iter[101/144]	
+Training acc =  99.39236111111111
+| Test Epoch #295	 Accuracy: 99.45%
+Train Nets
+Epoch [296/300] Iter[  1/144]	
+Epoch [296/300] Iter[101/144]	
+Training acc =  99.35438368055556
+| Test Epoch #296	 Accuracy: 99.45%
+Train Nets
+Epoch [297/300] Iter[  1/144]	
+Epoch [297/300] Iter[101/144]	
+Training acc =  99.42491319444444
+| Test Epoch #297	 Accuracy: 99.45%
+Train Nets
+Epoch [298/300] Iter[  1/144]	
+Epoch [298/300] Iter[101/144]	
+Training acc =  99.34353298611111
+| Test Epoch #298	 Accuracy: 99.44%
+Train Nets
+Epoch [299/300] Iter[  1/144]	
+Epoch [299/300] Iter[101/144]	
+Training acc =  99.35438368055556
+| Test Epoch #299	 Accuracy: 99.44%
+Train Nets
+Epoch [300/300] Iter[  1/144]	
+Epoch [300/300] Iter[101/144]	
+Training acc =  99.34895833333333
+| Test Epoch #300	 Accuracy: 99.46%

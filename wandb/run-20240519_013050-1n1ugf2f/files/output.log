@@ -1,0 +1,2698 @@
+
+Evaluating Dataset!
+| Test Epoch #0	 Accuracy: 50.42%
+Training started!
+Epoch [  0/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [  0/1000] Iter[101/377]	
+Acc  49.57456683168317
+Epoch [  0/1000] Iter[201/377]	
+Acc  49.786225124378106
+Epoch [  0/1000] Iter[301/377]	
+Acc  49.8235049833887
+Training acc =  49.71402519893899
+Evaluating Dataset!
+| Test Epoch #0	 Accuracy: 54.41%
+Saving best!
+Training started!
+Epoch [  1/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [  1/1000] Iter[101/377]	
+Acc  52.01887376237624
+Epoch [  1/1000] Iter[201/377]	
+Acc  52.00559701492537
+Epoch [  1/1000] Iter[301/377]	
+Acc  52.081602990033225
+Training acc =  52.016329575596814
+Evaluating Dataset!
+| Test Epoch #1	 Accuracy: 57.45%
+Saving best!
+Training started!
+Epoch [  2/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [  2/1000] Iter[101/377]	
+Acc  52.87747524752475
+Epoch [  2/1000] Iter[201/377]	
+Acc  52.9306592039801
+Epoch [  2/1000] Iter[301/377]	
+Acc  52.98224667774086
+Training acc =  53.071120689655174
+Evaluating Dataset!
+| Test Epoch #2	 Accuracy: 59.25%
+Saving best!
+Training started!
+Epoch [  3/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [  3/1000] Iter[101/377]	
+Acc  53.125
+Epoch [  3/1000] Iter[201/377]	
+Acc  53.56032338308458
+Epoch [  3/1000] Iter[301/377]	
+Acc  53.441652823920265
+Training acc =  53.363312334217504
+Evaluating Dataset!
+| Test Epoch #3	 Accuracy: 59.27%
+Saving best!
+Training started!
+Epoch [  4/1000] Iter[  1/377]	
+Acc  60.9375
+Epoch [  4/1000] Iter[101/377]	
+Acc  53.80569306930693
+Epoch [  4/1000] Iter[201/377]	
+Acc  53.15609452736319
+Epoch [  4/1000] Iter[301/377]	
+Acc  53.33783222591362
+Training acc =  53.315649867374006
+Evaluating Dataset!
+| Test Epoch #4	 Accuracy: 60.36%
+Saving best!
+Training started!
+Epoch [  5/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [  5/1000] Iter[101/377]	
+Acc  54.37035891089109
+Epoch [  5/1000] Iter[201/377]	
+Acc  53.797419154228855
+Epoch [  5/1000] Iter[301/377]	
+Acc  53.52730481727575
+Training acc =  53.40475795755968
+Evaluating Dataset!
+| Test Epoch #5	 Accuracy: 60.08%
+Training started!
+Epoch [  6/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [  6/1000] Iter[101/377]	
+Acc  54.29300742574257
+Epoch [  6/1000] Iter[201/377]	
+Acc  53.9140236318408
+Epoch [  6/1000] Iter[301/377]	
+Acc  53.568833056478404
+Training acc =  53.41719164456234
+Evaluating Dataset!
+| Test Epoch #6	 Accuracy: 60.24%
+Training started!
+Epoch [  7/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [  7/1000] Iter[101/377]	
+Acc  52.39016089108911
+Epoch [  7/1000] Iter[201/377]	
+Acc  52.95398009950249
+Epoch [  7/1000] Iter[301/377]	
+Acc  52.87323504983389
+Training acc =  52.94471153846154
+Evaluating Dataset!
+| Test Epoch #7	 Accuracy: 60.32%
+Training started!
+Epoch [  8/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [  8/1000] Iter[101/377]	
+Acc  53.929455445544555
+Epoch [  8/1000] Iter[201/377]	
+Acc  53.54088930348259
+Epoch [  8/1000] Iter[301/377]	
+Acc  53.32225913621262
+Training acc =  53.16644562334218
+Evaluating Dataset!
+| Test Epoch #8	 Accuracy: 61.02%
+Saving best!
+Training started!
+Epoch [  9/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [  9/1000] Iter[101/377]	
+Acc  53.15594059405941
+Epoch [  9/1000] Iter[201/377]	
+Acc  53.031716417910445
+Epoch [  9/1000] Iter[301/377]	
+Acc  53.01598837209303
+Training acc =  52.91569960212202
+Evaluating Dataset!
+| Test Epoch #9	 Accuracy: 60.80%
+Training started!
+Epoch [ 10/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 10/1000] Iter[101/377]	
+Acc  52.80012376237624
+Epoch [ 10/1000] Iter[201/377]	
+Acc  52.7324315920398
+Epoch [ 10/1000] Iter[301/377]	
+Acc  52.826515780730894
+Training acc =  52.76027851458886
+Evaluating Dataset!
+| Test Epoch #10	 Accuracy: 60.92%
+Training started!
+Epoch [ 11/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [ 11/1000] Iter[101/377]	
+Acc  52.792388613861384
+Epoch [ 11/1000] Iter[201/377]	
+Acc  52.887904228855724
+Epoch [ 11/1000] Iter[301/377]	
+Acc  52.75124584717608
+Training acc =  52.64423076923077
+Evaluating Dataset!
+| Test Epoch #11	 Accuracy: 60.92%
+Training started!
+Epoch [ 12/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [ 12/1000] Iter[101/377]	
+Acc  52.212252475247524
+Epoch [ 12/1000] Iter[201/377]	
+Acc  52.203824626865675
+Epoch [ 12/1000] Iter[301/377]	
+Acc  52.39306478405316
+Training acc =  52.45150862068966
+Evaluating Dataset!
+| Test Epoch #12	 Accuracy: 60.69%
+Training started!
+Epoch [ 13/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [ 13/1000] Iter[101/377]	
+Acc  52.18904702970297
+Epoch [ 13/1000] Iter[201/377]	
+Acc  52.34375
+Epoch [ 13/1000] Iter[301/377]	
+Acc  52.45276162790697
+Training acc =  52.47637599469496
+Evaluating Dataset!
+| Test Epoch #13	 Accuracy: 61.37%
+Saving best!
+Training started!
+Epoch [ 14/1000] Iter[  1/377]	
+Acc  58.59375
+Epoch [ 14/1000] Iter[101/377]	
+Acc  52.80012376237624
+Epoch [ 14/1000] Iter[201/377]	
+Acc  52.01337064676617
+Epoch [ 14/1000] Iter[301/377]	
+Acc  52.494289867109636
+Training acc =  52.34996684350133
+Evaluating Dataset!
+| Test Epoch #14	 Accuracy: 61.12%
+Training started!
+Epoch [ 15/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [ 15/1000] Iter[101/377]	
+Acc  52.28186881188119
+Epoch [ 15/1000] Iter[201/377]	
+Acc  51.943407960199
+Epoch [ 15/1000] Iter[301/377]	
+Acc  51.767545681063126
+Training acc =  51.94794429708223
+Evaluating Dataset!
+| Test Epoch #15	 Accuracy: 61.17%
+Training started!
+Epoch [ 16/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [ 16/1000] Iter[101/377]	
+Acc  52.73050742574257
+Epoch [ 16/1000] Iter[201/377]	
+Acc  52.07555970149254
+Epoch [ 16/1000] Iter[301/377]	
+Acc  52.07900747508306
+Training acc =  52.04326923076923
+Evaluating Dataset!
+| Test Epoch #16	 Accuracy: 60.87%
+Training started!
+Epoch [ 17/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [ 17/1000] Iter[101/377]	
+Acc  51.802289603960396
+Epoch [ 17/1000] Iter[201/377]	
+Acc  51.943407960199
+Epoch [ 17/1000] Iter[301/377]	
+Acc  52.09198504983389
+Training acc =  51.95623342175066
+Evaluating Dataset!
+| Test Epoch #17	 Accuracy: 60.84%
+Training started!
+Epoch [ 18/1000] Iter[  1/377]	
+Acc  57.8125
+Epoch [ 18/1000] Iter[101/377]	
+Acc  51.848700495049506
+Epoch [ 18/1000] Iter[201/377]	
+Acc  52.04446517412935
+Epoch [ 18/1000] Iter[301/377]	
+Acc  52.14389534883721
+Training acc =  51.92307692307692
+Evaluating Dataset!
+| Test Epoch #18	 Accuracy: 61.10%
+Training started!
+Epoch [ 19/1000] Iter[  1/377]	
+Acc  44.53125
+Epoch [ 19/1000] Iter[101/377]	
+Acc  52.14263613861386
+Epoch [ 19/1000] Iter[201/377]	
+Acc  51.70631218905473
+Epoch [ 19/1000] Iter[301/377]	
+Acc  51.60921926910299
+Training acc =  51.759366710875334
+Evaluating Dataset!
+| Test Epoch #19	 Accuracy: 60.51%
+Training started!
+Epoch [ 20/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 20/1000] Iter[101/377]	
+Acc  52.04207920792079
+Epoch [ 20/1000] Iter[201/377]	
+Acc  51.88510572139303
+Epoch [ 20/1000] Iter[301/377]	
+Acc  51.60143272425249
+Training acc =  51.71377652519894
+Evaluating Dataset!
+| Test Epoch #20	 Accuracy: 61.29%
+Training started!
+Epoch [ 21/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [ 21/1000] Iter[101/377]	
+Acc  51.20668316831683
+Epoch [ 21/1000] Iter[201/377]	
+Acc  51.099968905472636
+Epoch [ 21/1000] Iter[301/377]	
+Acc  51.29516196013289
+Training acc =  51.35319960212202
+Evaluating Dataset!
+| Test Epoch #21	 Accuracy: 60.90%
+Training started!
+Epoch [ 22/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [ 22/1000] Iter[101/377]	
+Acc  51.74814356435643
+Epoch [ 22/1000] Iter[201/377]	
+Acc  52.09499378109453
+Epoch [ 22/1000] Iter[301/377]	
+Acc  51.60662375415282
+Training acc =  51.332476790450926
+Evaluating Dataset!
+| Test Epoch #22	 Accuracy: 61.14%
+Training started!
+Epoch [ 23/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [ 23/1000] Iter[101/377]	
+Acc  51.16800742574257
+Epoch [ 23/1000] Iter[201/377]	
+Acc  51.39148009950249
+Epoch [ 23/1000] Iter[301/377]	
+Acc  51.658534053156146
+Training acc =  51.473391909814325
+Evaluating Dataset!
+| Test Epoch #23	 Accuracy: 60.88%
+Training started!
+Epoch [ 24/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [ 24/1000] Iter[101/377]	
+Acc  51.76361386138614
+Epoch [ 24/1000] Iter[201/377]	
+Acc  51.461442786069654
+Epoch [ 24/1000] Iter[301/377]	
+Acc  51.26142026578073
+Training acc =  51.326259946949605
+Evaluating Dataset!
+| Test Epoch #24	 Accuracy: 61.13%
+Training started!
+Epoch [ 25/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [ 25/1000] Iter[101/377]	
+Acc  51.16800742574257
+Epoch [ 25/1000] Iter[201/377]	
+Acc  50.82011815920398
+Epoch [ 25/1000] Iter[301/377]	
+Acc  51.17576827242525
+Training acc =  51.20192307692308
+Evaluating Dataset!
+| Test Epoch #25	 Accuracy: 61.14%
+Training started!
+Epoch [ 26/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [ 26/1000] Iter[101/377]	
+Acc  50.61107673267327
+Epoch [ 26/1000] Iter[201/377]	
+Acc  51.31374378109453
+Epoch [ 26/1000] Iter[301/377]	
+Acc  51.29516196013289
+Training acc =  51.224718169761275
+Evaluating Dataset!
+| Test Epoch #26	 Accuracy: 61.07%
+Training started!
+Epoch [ 27/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [ 27/1000] Iter[101/377]	
+Acc  51.20668316831683
+Epoch [ 27/1000] Iter[201/377]	
+Acc  50.82789179104478
+Epoch [ 27/1000] Iter[301/377]	
+Acc  50.866901993355484
+Training acc =  50.9470324933687
+Evaluating Dataset!
+| Test Epoch #27	 Accuracy: 61.09%
+Training started!
+Epoch [ 28/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 28/1000] Iter[101/377]	
+Acc  51.22215346534654
+Epoch [ 28/1000] Iter[201/377]	
+Acc  51.03000621890547
+Epoch [ 28/1000] Iter[301/377]	
+Acc  50.931789867109636
+Training acc =  50.89108090185676
+Evaluating Dataset!
+| Test Epoch #28	 Accuracy: 60.58%
+Training started!
+Epoch [ 29/1000] Iter[  1/377]	
+Acc  46.09375
+Epoch [ 29/1000] Iter[101/377]	
+Acc  50.48731435643565
+Epoch [ 29/1000] Iter[201/377]	
+Acc  50.95226990049751
+Epoch [ 29/1000] Iter[301/377]	
+Acc  50.92140780730897
+Training acc =  50.92009283819629
+Evaluating Dataset!
+| Test Epoch #29	 Accuracy: 60.85%
+Training started!
+Epoch [ 30/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [ 30/1000] Iter[101/377]	
+Acc  51.160272277227726
+Epoch [ 30/1000] Iter[201/377]	
+Acc  50.913401741293534
+Epoch [ 30/1000] Iter[301/377]	
+Acc  51.03561046511628
+Training acc =  51.009200928381965
+Evaluating Dataset!
+| Test Epoch #30	 Accuracy: 60.95%
+Training started!
+Epoch [ 31/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [ 31/1000] Iter[101/377]	
+Acc  50.99009900990099
+Epoch [ 31/1000] Iter[201/377]	
+Acc  50.46641791044776
+Epoch [ 31/1000] Iter[301/377]	
+Acc  50.60994601328904
+Training acc =  50.77710543766578
+Evaluating Dataset!
+| Test Epoch #31	 Accuracy: 61.21%
+Training started!
+Epoch [ 32/1000] Iter[  1/377]	
+Acc  45.3125
+Epoch [ 32/1000] Iter[101/377]	
+Acc  50.75030940594059
+Epoch [ 32/1000] Iter[201/377]	
+Acc  50.54804104477612
+Epoch [ 32/1000] Iter[301/377]	
+Acc  50.66445182724252
+Training acc =  50.76467175066313
+Evaluating Dataset!
+| Test Epoch #32	 Accuracy: 61.66%
+Saving best!
+Training started!
+Epoch [ 33/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [ 33/1000] Iter[101/377]	
+Acc  50.54919554455446
+Epoch [ 33/1000] Iter[201/377]	
+Acc  50.905628109452735
+Epoch [ 33/1000] Iter[301/377]	
+Acc  50.9421719269103
+Training acc =  50.67141909814324
+Evaluating Dataset!
+| Test Epoch #33	 Accuracy: 60.86%
+Training started!
+Epoch [ 34/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 34/1000] Iter[101/377]	
+Acc  51.160272277227726
+Epoch [ 34/1000] Iter[201/377]	
+Acc  50.60634328358209
+Epoch [ 34/1000] Iter[301/377]	
+Acc  50.70078903654485
+Training acc =  50.67349137931034
+Evaluating Dataset!
+| Test Epoch #34	 Accuracy: 61.37%
+Training started!
+Epoch [ 35/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [ 35/1000] Iter[101/377]	
+Acc  51.22215346534654
+Epoch [ 35/1000] Iter[201/377]	
+Acc  50.78125
+Epoch [ 35/1000] Iter[301/377]	
+Acc  50.690406976744185
+Training acc =  50.723226127320956
+Evaluating Dataset!
+| Test Epoch #35	 Accuracy: 61.17%
+Training started!
+Epoch [ 36/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [ 36/1000] Iter[101/377]	
+Acc  50.63428217821782
+Epoch [ 36/1000] Iter[201/377]	
+Acc  50.66075870646766
+Epoch [ 36/1000] Iter[301/377]	
+Acc  50.64109219269103
+Training acc =  50.70872015915119
+Evaluating Dataset!
+| Test Epoch #36	 Accuracy: 61.13%
+Training started!
+Epoch [ 37/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [ 37/1000] Iter[101/377]	
+Acc  50.59560643564357
+Epoch [ 37/1000] Iter[201/377]	
+Acc  50.64521144278607
+Epoch [ 37/1000] Iter[301/377]	
+Acc  50.612541528239205
+Training acc =  50.725298408488065
+Evaluating Dataset!
+| Test Epoch #37	 Accuracy: 61.46%
+Training started!
+Epoch [ 38/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [ 38/1000] Iter[101/377]	
+Acc  51.09839108910891
+Epoch [ 38/1000] Iter[201/377]	
+Acc  51.13106343283582
+Epoch [ 38/1000] Iter[301/377]	
+Acc  51.004464285714285
+Training acc =  50.99055039787798
+Evaluating Dataset!
+| Test Epoch #38	 Accuracy: 61.29%
+Training started!
+Epoch [ 39/1000] Iter[  1/377]	
+Acc  48.4375
+Epoch [ 39/1000] Iter[101/377]	
+Acc  49.62871287128713
+Epoch [ 39/1000] Iter[201/377]	
+Acc  50.36924751243781
+Epoch [ 39/1000] Iter[301/377]	
+Acc  50.68781146179402
+Training acc =  50.59888925729443
+Evaluating Dataset!
+| Test Epoch #39	 Accuracy: 61.15%
+Training started!
+Epoch [ 40/1000] Iter[  1/377]	
+Acc  44.53125
+Epoch [ 40/1000] Iter[101/377]	
+Acc  50.95142326732673
+Epoch [ 40/1000] Iter[201/377]	
+Acc  50.84732587064676
+Epoch [ 40/1000] Iter[301/377]	
+Acc  50.542462624584715
+Training acc =  50.42481763925729
+Evaluating Dataset!
+| Test Epoch #40	 Accuracy: 61.34%
+Training started!
+Epoch [ 41/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [ 41/1000] Iter[101/377]	
+Acc  50.5259900990099
+Epoch [ 41/1000] Iter[201/377]	
+Acc  50.79679726368159
+Epoch [ 41/1000] Iter[301/377]	
+Acc  50.576204318936874
+Training acc =  50.48905835543766
+Evaluating Dataset!
+| Test Epoch #41	 Accuracy: 61.05%
+Training started!
+Epoch [ 42/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [ 42/1000] Iter[101/377]	
+Acc  51.021039603960396
+Epoch [ 42/1000] Iter[201/377]	
+Acc  50.51694651741293
+Epoch [ 42/1000] Iter[301/377]	
+Acc  50.34260797342193
+Training acc =  50.55951591511936
+Evaluating Dataset!
+| Test Epoch #42	 Accuracy: 61.61%
+Training started!
+Epoch [ 43/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [ 43/1000] Iter[101/377]	
+Acc  50.24752475247525
+Epoch [ 43/1000] Iter[201/377]	
+Acc  50.75792910447761
+Epoch [ 43/1000] Iter[301/377]	
+Acc  50.67742940199336
+Training acc =  50.793683687002655
+Evaluating Dataset!
+| Test Epoch #43	 Accuracy: 61.42%
+Training started!
+Epoch [ 44/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [ 44/1000] Iter[101/377]	
+Acc  50.897277227722775
+Epoch [ 44/1000] Iter[201/377]	
+Acc  50.73849502487562
+Epoch [ 44/1000] Iter[301/377]	
+Acc  50.78125
+Training acc =  50.81647877984085
+Evaluating Dataset!
+| Test Epoch #44	 Accuracy: 61.29%
+Training started!
+Epoch [ 45/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 45/1000] Iter[101/377]	
+Acc  50.40996287128713
+Epoch [ 45/1000] Iter[201/377]	
+Acc  50.51694651741293
+Epoch [ 45/1000] Iter[301/377]	
+Acc  50.591777408637874
+Training acc =  50.70250331564987
+Evaluating Dataset!
+| Test Epoch #45	 Accuracy: 61.60%
+Training started!
+Epoch [ 46/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [ 46/1000] Iter[101/377]	
+Acc  50.7657797029703
+Epoch [ 46/1000] Iter[201/377]	
+Acc  50.93672263681592
+Epoch [ 46/1000] Iter[301/377]	
+Acc  50.6436877076412
+Training acc =  50.60096153846154
+Evaluating Dataset!
+| Test Epoch #46	 Accuracy: 61.28%
+Training started!
+Epoch [ 47/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 47/1000] Iter[101/377]	
+Acc  50.959158415841586
+Epoch [ 47/1000] Iter[201/377]	
+Acc  50.91728855721393
+Epoch [ 47/1000] Iter[301/377]	
+Acc  50.838351328903656
+Training acc =  50.75223806366048
+Evaluating Dataset!
+| Test Epoch #47	 Accuracy: 61.02%
+Training started!
+Epoch [ 48/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [ 48/1000] Iter[101/377]	
+Acc  50.31714108910891
+Epoch [ 48/1000] Iter[201/377]	
+Acc  50.785136815920396
+Epoch [ 48/1000] Iter[301/377]	
+Acc  50.7578903654485
+Training acc =  50.590600132625994
+Evaluating Dataset!
+| Test Epoch #48	 Accuracy: 61.17%
+Training started!
+Epoch [ 49/1000] Iter[  1/377]	
+Acc  42.1875
+Epoch [ 49/1000] Iter[101/377]	
+Acc  50.943688118811885
+Epoch [ 49/1000] Iter[201/377]	
+Acc  50.69962686567164
+Epoch [ 49/1000] Iter[301/377]	
+Acc  50.73453073089701
+Training acc =  50.74187665782493
+Evaluating Dataset!
+| Test Epoch #49	 Accuracy: 61.36%
+Training started!
+Epoch [ 50/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [ 50/1000] Iter[101/377]	
+Acc  50.897277227722775
+Epoch [ 50/1000] Iter[201/377]	
+Acc  50.35370024875622
+Epoch [ 50/1000] Iter[301/377]	
+Acc  50.56582225913621
+Training acc =  50.64655172413793
+Evaluating Dataset!
+| Test Epoch #50	 Accuracy: 61.36%
+Training started!
+Epoch [ 51/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [ 51/1000] Iter[101/377]	
+Acc  50.758044554455445
+Epoch [ 51/1000] Iter[201/377]	
+Acc  50.74626865671642
+Epoch [ 51/1000] Iter[301/377]	
+Acc  50.75529485049834
+Training acc =  50.75223806366048
+Evaluating Dataset!
+| Test Epoch #51	 Accuracy: 61.30%
+Training started!
+Epoch [ 52/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [ 52/1000] Iter[101/377]	
+Acc  51.28403465346535
+Epoch [ 52/1000] Iter[201/377]	
+Acc  51.372046019900495
+Epoch [ 52/1000] Iter[301/377]	
+Acc  50.97331810631229
+Training acc =  50.76467175066313
+Evaluating Dataset!
+| Test Epoch #52	 Accuracy: 61.70%
+Saving best!
+Training started!
+Epoch [ 53/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [ 53/1000] Iter[101/377]	
+Acc  51.35365099009901
+Epoch [ 53/1000] Iter[201/377]	
+Acc  50.7734763681592
+Epoch [ 53/1000] Iter[301/377]	
+Acc  50.81239617940199
+Training acc =  50.66727453580902
+Evaluating Dataset!
+| Test Epoch #53	 Accuracy: 61.16%
+Training started!
+Epoch [ 54/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [ 54/1000] Iter[101/377]	
+Acc  50.32487623762376
+Epoch [ 54/1000] Iter[201/377]	
+Acc  50.85509950248756
+Epoch [ 54/1000] Iter[301/377]	
+Acc  50.60735049833887
+Training acc =  50.654840848806366
+Evaluating Dataset!
+| Test Epoch #54	 Accuracy: 61.67%
+Training started!
+Epoch [ 55/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [ 55/1000] Iter[101/377]	
+Acc  50.58013613861386
+Epoch [ 55/1000] Iter[201/377]	
+Acc  50.81234452736319
+Epoch [ 55/1000] Iter[301/377]	
+Acc  50.74750830564784
+Training acc =  50.806117374005304
+Evaluating Dataset!
+| Test Epoch #55	 Accuracy: 61.15%
+Training started!
+Epoch [ 56/1000] Iter[  1/377]	
+Acc  45.3125
+Epoch [ 56/1000] Iter[101/377]	
+Acc  50.7657797029703
+Epoch [ 56/1000] Iter[201/377]	
+Acc  50.80068407960199
+Epoch [ 56/1000] Iter[301/377]	
+Acc  50.763081395348834
+Training acc =  50.74187665782493
+Evaluating Dataset!
+| Test Epoch #56	 Accuracy: 61.60%
+Training started!
+Epoch [ 57/1000] Iter[  1/377]	
+Acc  46.09375
+Epoch [ 57/1000] Iter[101/377]	
+Acc  50.78125
+Epoch [ 57/1000] Iter[201/377]	
+Acc  50.87842039800995
+Epoch [ 57/1000] Iter[301/377]	
+Acc  50.78644102990033
+Training acc =  50.735659814323604
+Evaluating Dataset!
+| Test Epoch #57	 Accuracy: 61.00%
+Training started!
+Epoch [ 58/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [ 58/1000] Iter[101/377]	
+Acc  50.13923267326733
+Epoch [ 58/1000] Iter[201/377]	
+Acc  50.400342039801
+Epoch [ 58/1000] Iter[301/377]	
+Acc  50.50093438538206
+Training acc =  50.551226790450926
+Evaluating Dataset!
+| Test Epoch #58	 Accuracy: 61.42%
+Training started!
+Epoch [ 59/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [ 59/1000] Iter[101/377]	
+Acc  52.165841584158414
+Epoch [ 59/1000] Iter[201/377]	
+Acc  51.19325248756219
+Epoch [ 59/1000] Iter[301/377]	
+Acc  50.87987956810631
+Training acc =  50.8993700265252
+Evaluating Dataset!
+| Test Epoch #59	 Accuracy: 61.46%
+Training started!
+Epoch [ 60/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [ 60/1000] Iter[101/377]	
+Acc  51.31497524752475
+Epoch [ 60/1000] Iter[201/377]	
+Acc  51.010572139303484
+Epoch [ 60/1000] Iter[301/377]	
+Acc  50.9343853820598
+Training acc =  50.833057029177716
+Evaluating Dataset!
+| Test Epoch #60	 Accuracy: 61.28%
+Training started!
+Epoch [ 61/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [ 61/1000] Iter[101/377]	
+Acc  50.711633663366335
+Epoch [ 61/1000] Iter[201/377]	
+Acc  51.03000621890547
+Epoch [ 61/1000] Iter[301/377]	
+Acc  50.778654485049834
+Training acc =  50.907659151193634
+Evaluating Dataset!
+| Test Epoch #61	 Accuracy: 61.31%
+Training started!
+Epoch [ 62/1000] Iter[  1/377]	
+Acc  59.375
+Epoch [ 62/1000] Iter[101/377]	
+Acc  50.38675742574257
+Epoch [ 62/1000] Iter[201/377]	
+Acc  50.90951492537314
+Epoch [ 62/1000] Iter[301/377]	
+Acc  51.10049833887043
+Training acc =  50.874502652519894
+Evaluating Dataset!
+| Test Epoch #62	 Accuracy: 61.31%
+Training started!
+Epoch [ 63/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [ 63/1000] Iter[101/377]	
+Acc  50.92821782178218
+Epoch [ 63/1000] Iter[201/377]	
+Acc  50.73072139303483
+Epoch [ 63/1000] Iter[301/377]	
+Acc  50.67483388704319
+Training acc =  50.64655172413793
+Evaluating Dataset!
+| Test Epoch #63	 Accuracy: 61.31%
+Training started!
+Epoch [ 64/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [ 64/1000] Iter[101/377]	
+Acc  50.27846534653465
+Epoch [ 64/1000] Iter[201/377]	
+Acc  50.76181592039801
+Epoch [ 64/1000] Iter[301/377]	
+Acc  50.79163205980066
+Training acc =  50.76467175066313
+Evaluating Dataset!
+| Test Epoch #64	 Accuracy: 61.68%
+Training started!
+Epoch [ 65/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [ 65/1000] Iter[101/377]	
+Acc  50.13923267326733
+Epoch [ 65/1000] Iter[201/377]	
+Acc  50.649098258706466
+Epoch [ 65/1000] Iter[301/377]	
+Acc  50.64109219269103
+Training acc =  50.78953912466844
+Evaluating Dataset!
+| Test Epoch #65	 Accuracy: 61.66%
+Training started!
+Epoch [ 66/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 66/1000] Iter[101/377]	
+Acc  50.758044554455445
+Epoch [ 66/1000] Iter[201/377]	
+Acc  51.041666666666664
+Epoch [ 66/1000] Iter[301/377]	
+Acc  51.01225083056478
+Training acc =  50.99262267904509
+Evaluating Dataset!
+| Test Epoch #66	 Accuracy: 61.27%
+Training started!
+Epoch [ 67/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [ 67/1000] Iter[101/377]	
+Acc  51.08292079207921
+Epoch [ 67/1000] Iter[201/377]	
+Acc  50.7734763681592
+Epoch [ 67/1000] Iter[301/377]	
+Acc  50.90843023255814
+Training acc =  51.00091180371353
+Evaluating Dataset!
+| Test Epoch #67	 Accuracy: 61.44%
+Training started!
+Epoch [ 68/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [ 68/1000] Iter[101/377]	
+Acc  50.88180693069307
+Epoch [ 68/1000] Iter[201/377]	
+Acc  50.87064676616915
+Epoch [ 68/1000] Iter[301/377]	
+Acc  50.92140780730897
+Training acc =  51.11488726790451
+Evaluating Dataset!
+| Test Epoch #68	 Accuracy: 60.84%
+Training started!
+Epoch [ 69/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [ 69/1000] Iter[101/377]	
+Acc  51.15253712871287
+Epoch [ 69/1000] Iter[201/377]	
+Acc  51.39536691542288
+Epoch [ 69/1000] Iter[301/377]	
+Acc  51.147217607973424
+Training acc =  50.905586870026525
+Evaluating Dataset!
+| Test Epoch #69	 Accuracy: 61.86%
+Saving best!
+Training started!
+Epoch [ 70/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [ 70/1000] Iter[101/377]	
+Acc  50.58787128712871
+Epoch [ 70/1000] Iter[201/377]	
+Acc  50.618003731343286
+Epoch [ 70/1000] Iter[301/377]	
+Acc  50.96812707641196
+Training acc =  50.89315318302387
+Evaluating Dataset!
+| Test Epoch #70	 Accuracy: 61.51%
+Training started!
+Epoch [ 71/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [ 71/1000] Iter[101/377]	
+Acc  50.61107673267327
+Epoch [ 71/1000] Iter[201/377]	
+Acc  50.590796019900495
+Epoch [ 71/1000] Iter[301/377]	
+Acc  50.94736295681063
+Training acc =  50.876574933687
+Evaluating Dataset!
+| Test Epoch #71	 Accuracy: 61.76%
+Training started!
+Epoch [ 72/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [ 72/1000] Iter[101/377]	
+Acc  50.90501237623762
+Epoch [ 72/1000] Iter[201/377]	
+Acc  51.107742537313435
+Epoch [ 72/1000] Iter[301/377]	
+Acc  51.264015780730894
+Training acc =  51.12939323607427
+Evaluating Dataset!
+| Test Epoch #72	 Accuracy: 61.58%
+Training started!
+Epoch [ 73/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [ 73/1000] Iter[101/377]	
+Acc  50.835396039603964
+Epoch [ 73/1000] Iter[201/377]	
+Acc  50.88619402985075
+Epoch [ 73/1000] Iter[301/377]	
+Acc  51.00705980066445
+Training acc =  50.96568302387268
+Evaluating Dataset!
+| Test Epoch #73	 Accuracy: 61.96%
+Saving best!
+Training started!
+Epoch [ 74/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [ 74/1000] Iter[101/377]	
+Acc  51.26856435643565
+Epoch [ 74/1000] Iter[201/377]	
+Acc  51.09608208955224
+Epoch [ 74/1000] Iter[301/377]	
+Acc  51.14462209302326
+Training acc =  51.16462201591512
+Evaluating Dataset!
+| Test Epoch #74	 Accuracy: 61.60%
+Training started!
+Epoch [ 75/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [ 75/1000] Iter[101/377]	
+Acc  51.73267326732673
+Epoch [ 75/1000] Iter[201/377]	
+Acc  51.414800995024876
+Epoch [ 75/1000] Iter[301/377]	
+Acc  51.28737541528239
+Training acc =  51.30968169761273
+Evaluating Dataset!
+| Test Epoch #75	 Accuracy: 61.26%
+Training started!
+Epoch [ 76/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [ 76/1000] Iter[101/377]	
+Acc  50.82766089108911
+Epoch [ 76/1000] Iter[201/377]	
+Acc  51.099968905472636
+Epoch [ 76/1000] Iter[301/377]	
+Acc  51.3860049833887
+Training acc =  51.400862068965516
+Evaluating Dataset!
+| Test Epoch #76	 Accuracy: 60.98%
+Training started!
+Epoch [ 77/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [ 77/1000] Iter[101/377]	
+Acc  51.01330445544554
+Epoch [ 77/1000] Iter[201/377]	
+Acc  51.15049751243781
+Epoch [ 77/1000] Iter[301/377]	
+Acc  51.21729651162791
+Training acc =  51.255802387267906
+Evaluating Dataset!
+| Test Epoch #77	 Accuracy: 61.70%
+Training started!
+Epoch [ 78/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 78/1000] Iter[101/377]	
+Acc  50.727103960396036
+Epoch [ 78/1000] Iter[201/377]	
+Acc  50.9755907960199
+Epoch [ 78/1000] Iter[301/377]	
+Acc  51.26920681063123
+Training acc =  51.42365716180371
+Evaluating Dataset!
+| Test Epoch #78	 Accuracy: 61.88%
+Training started!
+Epoch [ 79/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [ 79/1000] Iter[101/377]	
+Acc  51.160272277227726
+Epoch [ 79/1000] Iter[201/377]	
+Acc  51.48087686567164
+Epoch [ 79/1000] Iter[301/377]	
+Acc  51.32890365448505
+Training acc =  51.50033156498674
+Evaluating Dataset!
+| Test Epoch #79	 Accuracy: 61.82%
+Training started!
+Epoch [ 80/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [ 80/1000] Iter[101/377]	
+Acc  51.322710396039604
+Epoch [ 80/1000] Iter[201/377]	
+Acc  51.694651741293534
+Epoch [ 80/1000] Iter[301/377]	
+Acc  51.84281561461794
+Training acc =  51.64331896551724
+Evaluating Dataset!
+| Test Epoch #80	 Accuracy: 61.81%
+Training started!
+Epoch [ 81/1000] Iter[  1/377]	
+Acc  39.84375
+Epoch [ 81/1000] Iter[101/377]	
+Acc  50.62654702970297
+Epoch [ 81/1000] Iter[201/377]	
+Acc  51.31374378109453
+Epoch [ 81/1000] Iter[301/377]	
+Acc  51.43531976744186
+Training acc =  51.587367374005304
+Evaluating Dataset!
+| Test Epoch #81	 Accuracy: 61.78%
+Training started!
+Epoch [ 82/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [ 82/1000] Iter[101/377]	
+Acc  51.31497524752475
+Epoch [ 82/1000] Iter[201/377]	
+Acc  51.558613184079604
+Epoch [ 82/1000] Iter[301/377]	
+Acc  51.62479235880399
+Training acc =  51.759366710875334
+Evaluating Dataset!
+| Test Epoch #82	 Accuracy: 62.04%
+Saving best!
+Training started!
+Epoch [ 83/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [ 83/1000] Iter[101/377]	
+Acc  51.53155940594059
+Epoch [ 83/1000] Iter[201/377]	
+Acc  52.02891791044776
+Epoch [ 83/1000] Iter[301/377]	
+Acc  51.879152823920265
+Training acc =  51.800812334217504
+Evaluating Dataset!
+| Test Epoch #83	 Accuracy: 61.70%
+Training started!
+Epoch [ 84/1000] Iter[  1/377]	
+Acc  42.1875
+Epoch [ 84/1000] Iter[101/377]	
+Acc  52.103960396039604
+Epoch [ 84/1000] Iter[201/377]	
+Acc  52.06778606965174
+Epoch [ 84/1000] Iter[301/377]	
+Acc  51.96220930232558
+Training acc =  51.94379973474801
+Evaluating Dataset!
+| Test Epoch #84	 Accuracy: 62.05%
+Saving best!
+Training started!
+Epoch [ 85/1000] Iter[  1/377]	
+Acc  48.4375
+Epoch [ 85/1000] Iter[101/377]	
+Acc  51.63985148514851
+Epoch [ 85/1000] Iter[201/377]	
+Acc  52.02114427860697
+Epoch [ 85/1000] Iter[301/377]	
+Acc  52.08938953488372
+Training acc =  52.16346153846154
+Evaluating Dataset!
+| Test Epoch #85	 Accuracy: 61.93%
+Training started!
+Epoch [ 86/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [ 86/1000] Iter[101/377]	
+Acc  52.181311881188115
+Epoch [ 86/1000] Iter[201/377]	
+Acc  52.234919154228855
+Epoch [ 86/1000] Iter[301/377]	
+Acc  52.22695182724252
+Training acc =  52.10958222811671
+Evaluating Dataset!
+| Test Epoch #86	 Accuracy: 62.13%
+Saving best!
+Training started!
+Epoch [ 87/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [ 87/1000] Iter[101/377]	
+Acc  52.24319306930693
+Epoch [ 87/1000] Iter[201/377]	
+Acc  52.09499378109453
+Epoch [ 87/1000] Iter[301/377]	
+Acc  52.081602990033225
+Training acc =  52.04326923076923
+Evaluating Dataset!
+| Test Epoch #87	 Accuracy: 61.79%
+Training started!
+Epoch [ 88/1000] Iter[  1/377]	
+Acc  57.8125
+Epoch [ 88/1000] Iter[101/377]	
+Acc  51.5470297029703
+Epoch [ 88/1000] Iter[201/377]	
+Acc  51.99782338308458
+Epoch [ 88/1000] Iter[301/377]	
+Acc  52.01671511627907
+Training acc =  52.080570291777185
+Evaluating Dataset!
+| Test Epoch #88	 Accuracy: 62.11%
+Training started!
+Epoch [ 89/1000] Iter[  1/377]	
+Acc  46.09375
+Epoch [ 89/1000] Iter[101/377]	
+Acc  51.81002475247525
+Epoch [ 89/1000] Iter[201/377]	
+Acc  51.86178482587065
+Epoch [ 89/1000] Iter[301/377]	
+Acc  52.05045681063123
+Training acc =  52.09714854111406
+Evaluating Dataset!
+| Test Epoch #89	 Accuracy: 62.20%
+Saving best!
+Training started!
+Epoch [ 90/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [ 90/1000] Iter[101/377]	
+Acc  52.320544554455445
+Epoch [ 90/1000] Iter[201/377]	
+Acc  52.03669154228856
+Epoch [ 90/1000] Iter[301/377]	
+Acc  52.40344684385382
+Training acc =  52.37068965517241
+Evaluating Dataset!
+| Test Epoch #90	 Accuracy: 62.09%
+Training started!
+Epoch [ 91/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [ 91/1000] Iter[101/377]	
+Acc  52.04207920792079
+Epoch [ 91/1000] Iter[201/377]	
+Acc  52.203824626865675
+Epoch [ 91/1000] Iter[301/377]	
+Acc  52.34894102990033
+Training acc =  52.285726127320956
+Evaluating Dataset!
+| Test Epoch #91	 Accuracy: 62.11%
+Training started!
+Epoch [ 92/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [ 92/1000] Iter[101/377]	
+Acc  53.02444306930693
+Epoch [ 92/1000] Iter[201/377]	
+Acc  52.347636815920396
+Epoch [ 92/1000] Iter[301/377]	
+Acc  52.291839700996675
+Training acc =  52.499171087533156
+Evaluating Dataset!
+| Test Epoch #92	 Accuracy: 61.86%
+Training started!
+Epoch [ 93/1000] Iter[  1/377]	
+Acc  48.4375
+Epoch [ 93/1000] Iter[101/377]	
+Acc  52.745977722772274
+Epoch [ 93/1000] Iter[201/377]	
+Acc  52.63914800995025
+Epoch [ 93/1000] Iter[301/377]	
+Acc  52.58513289036545
+Training acc =  52.60071286472149
+Evaluating Dataset!
+| Test Epoch #93	 Accuracy: 62.09%
+Training started!
+Epoch [ 94/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [ 94/1000] Iter[101/377]	
+Acc  53.15594059405941
+Epoch [ 94/1000] Iter[201/377]	
+Acc  52.9228855721393
+Epoch [ 94/1000] Iter[301/377]	
+Acc  52.655211794019934
+Training acc =  52.58827917771883
+Evaluating Dataset!
+| Test Epoch #94	 Accuracy: 62.07%
+Training started!
+Epoch [ 95/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [ 95/1000] Iter[101/377]	
+Acc  52.42110148514851
+Epoch [ 95/1000] Iter[201/377]	
+Acc  52.61971393034826
+Epoch [ 95/1000] Iter[301/377]	
+Acc  52.44497508305648
+Training acc =  52.4142075596817
+Evaluating Dataset!
+| Test Epoch #95	 Accuracy: 61.99%
+Training started!
+Epoch [ 96/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [ 96/1000] Iter[101/377]	
+Acc  52.305074257425744
+Epoch [ 96/1000] Iter[201/377]	
+Acc  52.03280472636816
+Epoch [ 96/1000] Iter[301/377]	
+Acc  52.24252491694352
+Training acc =  52.430785809018566
+Evaluating Dataset!
+| Test Epoch #96	 Accuracy: 61.81%
+Training started!
+Epoch [ 97/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [ 97/1000] Iter[101/377]	
+Acc  52.459777227722775
+Epoch [ 97/1000] Iter[201/377]	
+Acc  52.29710820895522
+Epoch [ 97/1000] Iter[301/377]	
+Acc  52.42161544850498
+Training acc =  52.434930371352785
+Evaluating Dataset!
+| Test Epoch #97	 Accuracy: 62.29%
+Saving best!
+Training started!
+Epoch [ 98/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [ 98/1000] Iter[101/377]	
+Acc  53.02444306930693
+Epoch [ 98/1000] Iter[201/377]	
+Acc  52.782960199004975
+Epoch [ 98/1000] Iter[301/377]	
+Acc  52.63963870431893
+Training acc =  52.579990053050395
+Evaluating Dataset!
+| Test Epoch #98	 Accuracy: 62.06%
+Training started!
+Epoch [ 99/1000] Iter[  1/377]	
+Acc  60.9375
+Epoch [ 99/1000] Iter[101/377]	
+Acc  52.15037128712871
+Epoch [ 99/1000] Iter[201/377]	
+Acc  51.92786069651741
+Epoch [ 99/1000] Iter[301/377]	
+Acc  52.528031561461795
+Training acc =  52.73333885941645
+Evaluating Dataset!
+| Test Epoch #99	 Accuracy: 61.87%
+Training started!
+Epoch [100/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [100/1000] Iter[101/377]	
+Acc  52.12716584158416
+Epoch [100/1000] Iter[201/377]	
+Acc  52.51865671641791
+Epoch [100/1000] Iter[301/377]	
+Acc  52.46573920265781
+Training acc =  52.76442307692308
+Evaluating Dataset!
+| Test Epoch #100	 Accuracy: 61.89%
+Training started!
+Epoch [101/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [101/1000] Iter[101/377]	
+Acc  52.305074257425744
+Epoch [101/1000] Iter[201/377]	
+Acc  52.69745024875622
+Epoch [101/1000] Iter[301/377]	
+Acc  52.8187292358804
+Training acc =  52.98615716180371
+Evaluating Dataset!
+| Test Epoch #101	 Accuracy: 62.59%
+Saving best!
+Training started!
+Epoch [102/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [102/1000] Iter[101/377]	
+Acc  53.3802599009901
+Epoch [102/1000] Iter[201/377]	
+Acc  53.35043532338308
+Epoch [102/1000] Iter[301/377]	
+Acc  53.15095514950166
+Training acc =  53.069048408488065
+Evaluating Dataset!
+| Test Epoch #102	 Accuracy: 62.23%
+Training started!
+Epoch [103/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [103/1000] Iter[101/377]	
+Acc  53.1404702970297
+Epoch [103/1000] Iter[201/377]	
+Acc  53.33488805970149
+Epoch [103/1000] Iter[301/377]	
+Acc  53.215843023255815
+Training acc =  53.23897546419098
+Evaluating Dataset!
+| Test Epoch #103	 Accuracy: 62.19%
+Training started!
+Epoch [104/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [104/1000] Iter[101/377]	
+Acc  53.37252475247525
+Epoch [104/1000] Iter[201/377]	
+Acc  53.46315298507463
+Epoch [104/1000] Iter[301/377]	
+Acc  53.64669850498339
+Training acc =  53.421336206896555
+Evaluating Dataset!
+| Test Epoch #104	 Accuracy: 62.33%
+Training started!
+Epoch [105/1000] Iter[  1/377]	
+Acc  59.375
+Epoch [105/1000] Iter[101/377]	
+Acc  53.21782178217822
+Epoch [105/1000] Iter[201/377]	
+Acc  53.36598258706468
+Epoch [105/1000] Iter[301/377]	
+Acc  53.37676495016611
+Training acc =  53.170590185676396
+Evaluating Dataset!
+| Test Epoch #105	 Accuracy: 61.98%
+Training started!
+Epoch [106/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [106/1000] Iter[101/377]	
+Acc  53.02444306930693
+Epoch [106/1000] Iter[201/377]	
+Acc  53.24549129353234
+Epoch [106/1000] Iter[301/377]	
+Acc  53.236607142857146
+Training acc =  53.29699933687002
+Evaluating Dataset!
+| Test Epoch #106	 Accuracy: 62.52%
+Training started!
+Epoch [107/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [107/1000] Iter[101/377]	
+Acc  53.06311881188119
+Epoch [107/1000] Iter[201/377]	
+Acc  53.40873756218905
+Epoch [107/1000] Iter[301/377]	
+Acc  53.32225913621262
+Training acc =  53.40475795755968
+Evaluating Dataset!
+| Test Epoch #107	 Accuracy: 61.52%
+Training started!
+Epoch [108/1000] Iter[  1/377]	
+Acc  47.65625
+Epoch [108/1000] Iter[101/377]	
+Acc  53.1404702970297
+Epoch [108/1000] Iter[201/377]	
+Acc  53.43205845771144
+Epoch [108/1000] Iter[301/377]	
+Acc  53.423484219269106
+Training acc =  53.5042274535809
+Evaluating Dataset!
+| Test Epoch #108	 Accuracy: 61.94%
+Training started!
+Epoch [109/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [109/1000] Iter[101/377]	
+Acc  53.68966584158416
+Epoch [109/1000] Iter[201/377]	
+Acc  53.894589552238806
+Epoch [109/1000] Iter[301/377]	
+Acc  53.53249584717608
+Training acc =  53.632708885941646
+Evaluating Dataset!
+| Test Epoch #109	 Accuracy: 62.08%
+Training started!
+Epoch [110/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [110/1000] Iter[101/377]	
+Acc  53.81342821782178
+Epoch [110/1000] Iter[201/377]	
+Acc  53.249378109452735
+Epoch [110/1000] Iter[301/377]	
+Acc  53.270348837209305
+Training acc =  53.20167440318303
+Evaluating Dataset!
+| Test Epoch #110	 Accuracy: 62.29%
+Training started!
+Epoch [111/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [111/1000] Iter[101/377]	
+Acc  53.58910891089109
+Epoch [111/1000] Iter[201/377]	
+Acc  53.84794776119403
+Epoch [111/1000] Iter[301/377]	
+Acc  53.58181063122924
+Training acc =  53.68658819628647
+Evaluating Dataset!
+| Test Epoch #111	 Accuracy: 62.46%
+Training started!
+Epoch [112/1000] Iter[  1/377]	
+Acc  60.15625
+Epoch [112/1000] Iter[101/377]	
+Acc  53.23329207920792
+Epoch [112/1000] Iter[201/377]	
+Acc  53.43983208955224
+Epoch [112/1000] Iter[301/377]	
+Acc  53.71418189368771
+Training acc =  53.9539124668435
+Evaluating Dataset!
+| Test Epoch #112	 Accuracy: 62.49%
+Training started!
+Epoch [113/1000] Iter[  1/377]	
+Acc  63.28125
+Epoch [113/1000] Iter[101/377]	
+Acc  53.836633663366335
+Epoch [113/1000] Iter[201/377]	
+Acc  53.902363184079604
+Epoch [113/1000] Iter[301/377]	
+Acc  54.02304817275748
+Training acc =  53.93526193633952
+Evaluating Dataset!
+| Test Epoch #113	 Accuracy: 62.67%
+Saving best!
+Training started!
+Epoch [114/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [114/1000] Iter[101/377]	
+Acc  54.068688118811885
+Epoch [114/1000] Iter[201/377]	
+Acc  53.933457711442784
+Epoch [114/1000] Iter[301/377]	
+Acc  53.771283222591364
+Training acc =  53.848226127320956
+Evaluating Dataset!
+| Test Epoch #114	 Accuracy: 62.34%
+Training started!
+Epoch [115/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [115/1000] Iter[101/377]	
+Acc  53.80569306930693
+Epoch [115/1000] Iter[201/377]	
+Acc  53.879042288557216
+Epoch [115/1000] Iter[301/377]	
+Acc  53.820598006644516
+Training acc =  53.77362400530504
+Evaluating Dataset!
+| Test Epoch #115	 Accuracy: 61.85%
+Training started!
+Epoch [116/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [116/1000] Iter[101/377]	
+Acc  53.98360148514851
+Epoch [116/1000] Iter[201/377]	
+Acc  53.917910447761194
+Epoch [116/1000] Iter[301/377]	
+Acc  53.662271594684384
+Training acc =  53.60576923076923
+Evaluating Dataset!
+| Test Epoch #116	 Accuracy: 62.02%
+Training started!
+Epoch [117/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [117/1000] Iter[101/377]	
+Acc  53.929455445544555
+Epoch [117/1000] Iter[201/377]	
+Acc  53.92179726368159
+Epoch [117/1000] Iter[301/377]	
+Acc  53.963351328903656
+Training acc =  53.93940649867374
+Evaluating Dataset!
+| Test Epoch #117	 Accuracy: 62.59%
+Training started!
+Epoch [118/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [118/1000] Iter[101/377]	
+Acc  54.7029702970297
+Epoch [118/1000] Iter[201/377]	
+Acc  54.14723258706468
+Epoch [118/1000] Iter[301/377]	
+Acc  54.16061046511628
+Training acc =  54.04509283819629
+Evaluating Dataset!
+| Test Epoch #118	 Accuracy: 62.03%
+Training started!
+Epoch [119/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [119/1000] Iter[101/377]	
+Acc  54.04548267326733
+Epoch [119/1000] Iter[201/377]	
+Acc  53.59919154228856
+Epoch [119/1000] Iter[301/377]	
+Acc  53.92182308970099
+Training acc =  53.885527188328915
+Evaluating Dataset!
+| Test Epoch #119	 Accuracy: 61.71%
+Training started!
+Epoch [120/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [120/1000] Iter[101/377]	
+Acc  54.40903465346535
+Epoch [120/1000] Iter[201/377]	
+Acc  53.92179726368159
+Epoch [120/1000] Iter[301/377]	
+Acc  54.041216777408636
+Training acc =  53.94769562334218
+Evaluating Dataset!
+| Test Epoch #120	 Accuracy: 61.79%
+Training started!
+Epoch [121/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [121/1000] Iter[101/377]	
+Acc  53.898514851485146
+Epoch [121/1000] Iter[201/377]	
+Acc  53.96455223880597
+Epoch [121/1000] Iter[301/377]	
+Acc  54.056789867109636
+Training acc =  53.97463527851459
+Evaluating Dataset!
+| Test Epoch #121	 Accuracy: 61.54%
+Training started!
+Epoch [122/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [122/1000] Iter[101/377]	
+Acc  53.75928217821782
+Epoch [122/1000] Iter[201/377]	
+Acc  54.15500621890547
+Epoch [122/1000] Iter[301/377]	
+Acc  54.163205980066444
+Training acc =  54.25853779840849
+Evaluating Dataset!
+| Test Epoch #122	 Accuracy: 62.03%
+Training started!
+Epoch [123/1000] Iter[  1/377]	
+Acc  57.8125
+Epoch [123/1000] Iter[101/377]	
+Acc  53.774752475247524
+Epoch [123/1000] Iter[201/377]	
+Acc  54.007307213930346
+Epoch [123/1000] Iter[301/377]	
+Acc  54.23328488372093
+Training acc =  54.23159814323608
+Evaluating Dataset!
+| Test Epoch #123	 Accuracy: 62.49%
+Training started!
+Epoch [124/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [124/1000] Iter[101/377]	
+Acc  53.852103960396036
+Epoch [124/1000] Iter[201/377]	
+Acc  53.63028606965174
+Epoch [124/1000] Iter[301/377]	
+Acc  53.649294019933556
+Training acc =  53.709383289124666
+Evaluating Dataset!
+| Test Epoch #124	 Accuracy: 61.57%
+Training started!
+Epoch [125/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [125/1000] Iter[101/377]	
+Acc  53.80569306930693
+Epoch [125/1000] Iter[201/377]	
+Acc  54.1044776119403
+Epoch [125/1000] Iter[301/377]	
+Acc  54.0438122923588
+Training acc =  54.063743368700266
+Evaluating Dataset!
+| Test Epoch #125	 Accuracy: 62.14%
+Training started!
+Epoch [126/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [126/1000] Iter[101/377]	
+Acc  54.53279702970297
+Epoch [126/1000] Iter[201/377]	
+Acc  54.465951492537314
+Epoch [126/1000] Iter[301/377]	
+Acc  54.24885797342193
+Training acc =  54.165285145888596
+Evaluating Dataset!
+| Test Epoch #126	 Accuracy: 60.41%
+Training started!
+Epoch [127/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [127/1000] Iter[101/377]	
+Acc  54.04548267326733
+Epoch [127/1000] Iter[201/377]	
+Acc  54.096703980099505
+Epoch [127/1000] Iter[301/377]	
+Acc  54.30336378737542
+Training acc =  54.382874668435015
+Evaluating Dataset!
+| Test Epoch #127	 Accuracy: 61.82%
+Training started!
+Epoch [128/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [128/1000] Iter[101/377]	
+Acc  54.26980198019802
+Epoch [128/1000] Iter[201/377]	
+Acc  54.0928171641791
+Epoch [128/1000] Iter[301/377]	
+Acc  54.365656146179404
+Training acc =  54.25646551724138
+Evaluating Dataset!
+| Test Epoch #128	 Accuracy: 62.47%
+Training started!
+Epoch [129/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [129/1000] Iter[101/377]	
+Acc  55.136138613861384
+Epoch [129/1000] Iter[201/377]	
+Acc  54.73025497512438
+Epoch [129/1000] Iter[301/377]	
+Acc  54.54734219269103
+Training acc =  54.53829575596817
+Evaluating Dataset!
+| Test Epoch #129	 Accuracy: 61.81%
+Training started!
+Epoch [130/1000] Iter[  1/377]	
+Acc  63.28125
+Epoch [130/1000] Iter[101/377]	
+Acc  54.25433168316832
+Epoch [130/1000] Iter[201/377]	
+Acc  54.38821517412935
+Epoch [130/1000] Iter[301/377]	
+Acc  54.238475913621265
+Training acc =  54.2854774535809
+Evaluating Dataset!
+| Test Epoch #130	 Accuracy: 60.49%
+Training started!
+Epoch [131/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [131/1000] Iter[101/377]	
+Acc  53.98360148514851
+Epoch [131/1000] Iter[201/377]	
+Acc  54.34934701492537
+Epoch [131/1000] Iter[301/377]	
+Acc  54.430544019933556
+Training acc =  54.360079575596814
+Evaluating Dataset!
+| Test Epoch #131	 Accuracy: 61.50%
+Training started!
+Epoch [132/1000] Iter[  1/377]	
+Acc  58.59375
+Epoch [132/1000] Iter[101/377]	
+Acc  54.74938118811881
+Epoch [132/1000] Iter[201/377]	
+Acc  54.38044154228856
+Epoch [132/1000] Iter[301/377]	
+Acc  54.5110049833887
+Training acc =  54.61082559681697
+Evaluating Dataset!
+| Test Epoch #132	 Accuracy: 62.20%
+Training started!
+Epoch [133/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [133/1000] Iter[101/377]	
+Acc  54.45544554455446
+Epoch [133/1000] Iter[201/377]	
+Acc  54.92848258706468
+Epoch [133/1000] Iter[301/377]	
+Acc  54.799107142857146
+Training acc =  54.6170424403183
+Evaluating Dataset!
+| Test Epoch #133	 Accuracy: 59.73%
+Training started!
+Epoch [134/1000] Iter[  1/377]	
+Acc  61.71875
+Epoch [134/1000] Iter[101/377]	
+Acc  54.59467821782178
+Epoch [134/1000] Iter[201/377]	
+Acc  54.57089552238806
+Epoch [134/1000] Iter[301/377]	
+Acc  54.459094684385384
+Training acc =  54.532078912466844
+Evaluating Dataset!
+| Test Epoch #134	 Accuracy: 61.57%
+Training started!
+Epoch [135/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [135/1000] Iter[101/377]	
+Acc  53.960396039603964
+Epoch [135/1000] Iter[201/377]	
+Acc  54.40764925373134
+Epoch [135/1000] Iter[301/377]	
+Acc  54.630398671096344
+Training acc =  54.64812665782493
+Evaluating Dataset!
+| Test Epoch #135	 Accuracy: 62.39%
+Training started!
+Epoch [136/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [136/1000] Iter[101/377]	
+Acc  54.45544554455446
+Epoch [136/1000] Iter[201/377]	
+Acc  54.65251865671642
+Epoch [136/1000] Iter[301/377]	
+Acc  54.690095514950166
+Training acc =  54.629476127320956
+Evaluating Dataset!
+| Test Epoch #136	 Accuracy: 60.45%
+Training started!
+Epoch [137/1000] Iter[  1/377]	
+Acc  42.1875
+Epoch [137/1000] Iter[101/377]	
+Acc  54.47865099009901
+Epoch [137/1000] Iter[201/377]	
+Acc  54.773009950248756
+Epoch [137/1000] Iter[301/377]	
+Acc  54.799107142857146
+Training acc =  54.62325928381963
+Evaluating Dataset!
+| Test Epoch #137	 Accuracy: 62.78%
+Saving best!
+Training started!
+Epoch [138/1000] Iter[  1/377]	
+Acc  57.8125
+Epoch [138/1000] Iter[101/377]	
+Acc  54.79579207920792
+Epoch [138/1000] Iter[201/377]	
+Acc  55.0761815920398
+Epoch [138/1000] Iter[301/377]	
+Acc  54.965220099667775
+Training acc =  55.00663129973475
+Evaluating Dataset!
+| Test Epoch #138	 Accuracy: 62.58%
+Training started!
+Epoch [139/1000] Iter[  1/377]	
+Acc  57.8125
+Epoch [139/1000] Iter[101/377]	
+Acc  54.88861386138614
+Epoch [139/1000] Iter[201/377]	
+Acc  54.92070895522388
+Epoch [139/1000] Iter[301/377]	
+Acc  55.019725913621265
+Training acc =  54.990053050397876
+Evaluating Dataset!
+| Test Epoch #139	 Accuracy: 62.47%
+Training started!
+Epoch [140/1000] Iter[  1/377]	
+Acc  64.0625
+Epoch [140/1000] Iter[101/377]	
+Acc  54.45544554455446
+Epoch [140/1000] Iter[201/377]	
+Acc  54.87018034825871
+Epoch [140/1000] Iter[301/377]	
+Acc  54.75238787375415
+Training acc =  55.029426392572944
+Evaluating Dataset!
+| Test Epoch #140	 Accuracy: 61.23%
+Training started!
+Epoch [141/1000] Iter[  1/377]	
+Acc  59.375
+Epoch [141/1000] Iter[101/377]	
+Acc  54.38582920792079
+Epoch [141/1000] Iter[201/377]	
+Acc  54.58255597014925
+Epoch [141/1000] Iter[301/377]	
+Acc  54.729028239202655
+Training acc =  54.92788461538461
+Evaluating Dataset!
+| Test Epoch #141	 Accuracy: 61.91%
+Training started!
+Epoch [142/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [142/1000] Iter[101/377]	
+Acc  54.648824257425744
+Epoch [142/1000] Iter[201/377]	
+Acc  54.99844527363184
+Epoch [142/1000] Iter[301/377]	
+Acc  55.102782392026576
+Training acc =  55.1599801061008
+Evaluating Dataset!
+| Test Epoch #142	 Accuracy: 61.25%
+Training started!
+Epoch [143/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [143/1000] Iter[101/377]	
+Acc  54.85767326732673
+Epoch [143/1000] Iter[201/377]	
+Acc  55.367692786069654
+Epoch [143/1000] Iter[301/377]	
+Acc  55.62707641196013
+Training acc =  55.55371352785146
+Evaluating Dataset!
+| Test Epoch #143	 Accuracy: 62.66%
+Training started!
+Epoch [144/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [144/1000] Iter[101/377]	
+Acc  54.911819306930695
+Epoch [144/1000] Iter[201/377]	
+Acc  55.150031094527364
+Epoch [144/1000] Iter[301/377]	
+Acc  55.32859219269103
+Training acc =  55.43973806366048
+Evaluating Dataset!
+| Test Epoch #144	 Accuracy: 62.76%
+Training started!
+Epoch [145/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [145/1000] Iter[101/377]	
+Acc  55.63892326732673
+Epoch [145/1000] Iter[201/377]	
+Acc  55.11893656716418
+Epoch [145/1000] Iter[301/377]	
+Acc  55.16507475083056
+Training acc =  55.22007625994695
+Evaluating Dataset!
+| Test Epoch #145	 Accuracy: 61.18%
+Training started!
+Epoch [146/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [146/1000] Iter[101/377]	
+Acc  55.08199257425743
+Epoch [146/1000] Iter[201/377]	
+Acc  55.36380597014925
+Epoch [146/1000] Iter[301/377]	
+Acc  55.31301910299003
+Training acc =  55.205570291777185
+Evaluating Dataset!
+| Test Epoch #146	 Accuracy: 62.01%
+Training started!
+Epoch [147/1000] Iter[  1/377]	
+Acc  60.15625
+Epoch [147/1000] Iter[101/377]	
+Acc  55.42233910891089
+Epoch [147/1000] Iter[201/377]	
+Acc  55.18889925373134
+Epoch [147/1000] Iter[301/377]	
+Acc  55.12095099667774
+Training acc =  55.22422082228117
+Evaluating Dataset!
+| Test Epoch #147	 Accuracy: 61.87%
+Training started!
+Epoch [148/1000] Iter[  1/377]	
+Acc  58.59375
+Epoch [148/1000] Iter[101/377]	
+Acc  55.739480198019805
+Epoch [148/1000] Iter[201/377]	
+Acc  55.4765236318408
+Epoch [148/1000] Iter[301/377]	
+Acc  55.60890780730897
+Training acc =  55.42937665782493
+Evaluating Dataset!
+| Test Epoch #148	 Accuracy: 60.38%
+Training started!
+Epoch [149/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [149/1000] Iter[101/377]	
+Acc  54.79579207920792
+Epoch [149/1000] Iter[201/377]	
+Acc  54.916822139303484
+Epoch [149/1000] Iter[301/377]	
+Acc  55.079422757475086
+Training acc =  55.21178713527851
+Evaluating Dataset!
+| Test Epoch #149	 Accuracy: 62.59%
+Training started!
+Epoch [150/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [150/1000] Iter[101/377]	
+Acc  55.739480198019805
+Epoch [150/1000] Iter[201/377]	
+Acc  55.76414800995025
+Epoch [150/1000] Iter[301/377]	
+Acc  55.42981727574751
+Training acc =  55.30089522546419
+Evaluating Dataset!
+| Test Epoch #150	 Accuracy: 62.03%
+Training started!
+Epoch [151/1000] Iter[  1/377]	
+Acc  57.8125
+Epoch [151/1000] Iter[101/377]	
+Acc  55.584777227722775
+Epoch [151/1000] Iter[201/377]	
+Acc  55.69418532338308
+Epoch [151/1000] Iter[301/377]	
+Acc  55.72830149501661
+Training acc =  55.71535145888594
+Evaluating Dataset!
+| Test Epoch #151	 Accuracy: 61.51%
+Training started!
+Epoch [152/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [152/1000] Iter[101/377]	
+Acc  55.57704207920792
+Epoch [152/1000] Iter[201/377]	
+Acc  55.40656094527363
+Epoch [152/1000] Iter[301/377]	
+Acc  55.505087209302324
+Training acc =  55.491545092838194
+Evaluating Dataset!
+| Test Epoch #152	 Accuracy: 61.84%
+Training started!
+Epoch [153/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [153/1000] Iter[101/377]	
+Acc  55.15160891089109
+Epoch [153/1000] Iter[201/377]	
+Acc  55.81467661691542
+Epoch [153/1000] Iter[301/377]	
+Acc  55.70494186046512
+Training acc =  55.75679708222812
+Evaluating Dataset!
+| Test Epoch #153	 Accuracy: 61.65%
+Training started!
+Epoch [154/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [154/1000] Iter[101/377]	
+Acc  55.67759900990099
+Epoch [154/1000] Iter[201/377]	
+Acc  56.15282960199005
+Epoch [154/1000] Iter[301/377]	
+Acc  55.86326827242525
+Training acc =  55.57650862068966
+Evaluating Dataset!
+| Test Epoch #154	 Accuracy: 61.22%
+Training started!
+Epoch [155/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [155/1000] Iter[101/377]	
+Acc  55.198019801980195
+Epoch [155/1000] Iter[201/377]	
+Acc  55.48818407960199
+Epoch [155/1000] Iter[301/377]	
+Acc  55.43500830564784
+Training acc =  55.514340185676396
+Evaluating Dataset!
+| Test Epoch #155	 Accuracy: 60.72%
+Training started!
+Epoch [156/1000] Iter[  1/377]	
+Acc  45.3125
+Epoch [156/1000] Iter[101/377]	
+Acc  55.2134900990099
+Epoch [156/1000] Iter[201/377]	
+Acc  55.65143034825871
+Epoch [156/1000] Iter[301/377]	
+Acc  55.69455980066445
+Training acc =  55.67183355437666
+Evaluating Dataset!
+| Test Epoch #156	 Accuracy: 62.41%
+Training started!
+Epoch [157/1000] Iter[  1/377]	
+Acc  60.15625
+Epoch [157/1000] Iter[101/377]	
+Acc  56.05662128712871
+Epoch [157/1000] Iter[201/377]	
+Acc  55.6669776119403
+Epoch [157/1000] Iter[301/377]	
+Acc  55.70494186046512
+Training acc =  55.75058023872679
+Evaluating Dataset!
+| Test Epoch #157	 Accuracy: 62.12%
+Training started!
+Epoch [158/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [158/1000] Iter[101/377]	
+Acc  54.91955445544554
+Epoch [158/1000] Iter[201/377]	
+Acc  55.577580845771145
+Epoch [158/1000] Iter[301/377]	
+Acc  55.486918604651166
+Training acc =  55.54749668435013
+Evaluating Dataset!
+| Test Epoch #158	 Accuracy: 61.69%
+Training started!
+Epoch [159/1000] Iter[  1/377]	
+Acc  64.0625
+Epoch [159/1000] Iter[101/377]	
+Acc  55.337252475247524
+Epoch [159/1000] Iter[201/377]	
+Acc  56.125621890547265
+Epoch [159/1000] Iter[301/377]	
+Acc  56.011212624584715
+Training acc =  56.11322944297082
+Evaluating Dataset!
+| Test Epoch #159	 Accuracy: 62.01%
+Training started!
+Epoch [160/1000] Iter[  1/377]	
+Acc  57.8125
+Epoch [160/1000] Iter[101/377]	
+Acc  54.88861386138614
+Epoch [160/1000] Iter[201/377]	
+Acc  55.853544776119406
+Epoch [160/1000] Iter[301/377]	
+Acc  55.819144518272424
+Training acc =  55.79824270557029
+Evaluating Dataset!
+| Test Epoch #160	 Accuracy: 62.63%
+Training started!
+Epoch [161/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [161/1000] Iter[101/377]	
+Acc  55.85550742574257
+Epoch [161/1000] Iter[201/377]	
+Acc  55.72139303482587
+Epoch [161/1000] Iter[301/377]	
+Acc  55.917774086378735
+Training acc =  55.75886936339523
+Evaluating Dataset!
+| Test Epoch #161	 Accuracy: 60.62%
+Training started!
+Epoch [162/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [162/1000] Iter[101/377]	
+Acc  55.739480198019805
+Epoch [162/1000] Iter[201/377]	
+Acc  55.6630907960199
+Epoch [162/1000] Iter[301/377]	
+Acc  55.6218853820598
+Training acc =  55.696700928381965
+Evaluating Dataset!
+| Test Epoch #162	 Accuracy: 62.36%
+Training started!
+Epoch [163/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [163/1000] Iter[101/377]	
+Acc  55.83230198019802
+Epoch [163/1000] Iter[201/377]	
+Acc  55.6553171641791
+Epoch [163/1000] Iter[301/377]	
+Acc  55.279277408637874
+Training acc =  55.564074933687
+Evaluating Dataset!
+| Test Epoch #163	 Accuracy: 61.85%
+Training started!
+Epoch [164/1000] Iter[  1/377]	
+Acc  58.59375
+Epoch [164/1000] Iter[101/377]	
+Acc  55.491955445544555
+Epoch [164/1000] Iter[201/377]	
+Acc  55.43376865671642
+Epoch [164/1000] Iter[301/377]	
+Acc  55.712728405315616
+Training acc =  55.54127984084881
+Evaluating Dataset!
+| Test Epoch #164	 Accuracy: 60.27%
+Training started!
+Epoch [165/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [165/1000] Iter[101/377]	
+Acc  55.34498762376238
+Epoch [165/1000] Iter[201/377]	
+Acc  55.37157960199005
+Epoch [165/1000] Iter[301/377]	
+Acc  55.839908637873755
+Training acc =  55.82725464190982
+Evaluating Dataset!
+| Test Epoch #165	 Accuracy: 62.37%
+Training started!
+Epoch [166/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [166/1000] Iter[101/377]	
+Acc  56.07982673267327
+Epoch [166/1000] Iter[201/377]	
+Acc  56.13339552238806
+Epoch [166/1000] Iter[301/377]	
+Acc  55.96449335548173
+Training acc =  56.06763925729443
+Evaluating Dataset!
+| Test Epoch #166	 Accuracy: 62.76%
+Training started!
+Epoch [167/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [167/1000] Iter[101/377]	
+Acc  55.60798267326733
+Epoch [167/1000] Iter[201/377]	
+Acc  56.117848258706466
+Epoch [167/1000] Iter[301/377]	
+Acc  56.0968646179402
+Training acc =  56.08628978779841
+Evaluating Dataset!
+| Test Epoch #167	 Accuracy: 62.18%
+Training started!
+Epoch [168/1000] Iter[  1/377]	
+Acc  64.0625
+Epoch [168/1000] Iter[101/377]	
+Acc  55.754950495049506
+Epoch [168/1000] Iter[201/377]	
+Acc  56.06731965174129
+Epoch [168/1000] Iter[301/377]	
+Acc  56.03457225913621
+Training acc =  56.0614224137931
+Evaluating Dataset!
+| Test Epoch #168	 Accuracy: 61.97%
+Training started!
+Epoch [169/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [169/1000] Iter[101/377]	
+Acc  55.71627475247525
+Epoch [169/1000] Iter[201/377]	
+Acc  56.15282960199005
+Epoch [169/1000] Iter[301/377]	
+Acc  55.99563953488372
+Training acc =  56.094578912466844
+Evaluating Dataset!
+| Test Epoch #169	 Accuracy: 61.12%
+Training started!
+Epoch [170/1000] Iter[  1/377]	
+Acc  60.9375
+Epoch [170/1000] Iter[101/377]	
+Acc  56.54393564356435
+Epoch [170/1000] Iter[201/377]	
+Acc  56.374378109452735
+Epoch [170/1000] Iter[301/377]	
+Acc  56.4109219269103
+Training acc =  56.34739721485411
+Evaluating Dataset!
+| Test Epoch #170	 Accuracy: 62.04%
+Training started!
+Epoch [171/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [171/1000] Iter[101/377]	
+Acc  56.304146039603964
+Epoch [171/1000] Iter[201/377]	
+Acc  56.883550995024876
+Epoch [171/1000] Iter[301/377]	
+Acc  56.76650747508306
+Training acc =  56.56913129973475
+Evaluating Dataset!
+| Test Epoch #171	 Accuracy: 62.02%
+Training started!
+Epoch [172/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [172/1000] Iter[101/377]	
+Acc  57.069925742574256
+Epoch [172/1000] Iter[201/377]	
+Acc  56.630907960199
+Epoch [172/1000] Iter[301/377]	
+Acc  56.29671926910299
+Training acc =  56.40334880636605
+Evaluating Dataset!
+| Test Epoch #172	 Accuracy: 62.45%
+Training started!
+Epoch [173/1000] Iter[  1/377]	
+Acc  59.375
+Epoch [173/1000] Iter[101/377]	
+Acc  55.79362623762376
+Epoch [173/1000] Iter[201/377]	
+Acc  56.22667910447761
+Epoch [173/1000] Iter[301/377]	
+Acc  56.05274086378738
+Training acc =  56.18368700265252
+Evaluating Dataset!
+| Test Epoch #173	 Accuracy: 60.56%
+Training started!
+Epoch [174/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [174/1000] Iter[101/377]	
+Acc  55.92512376237624
+Epoch [174/1000] Iter[201/377]	
+Acc  56.07120646766169
+Epoch [174/1000] Iter[301/377]	
+Acc  56.115033222591364
+Training acc =  56.264505968169765
+Evaluating Dataset!
+| Test Epoch #174	 Accuracy: 62.08%
+Training started!
+Epoch [175/1000] Iter[  1/377]	
+Acc  60.15625
+Epoch [175/1000] Iter[101/377]	
+Acc  56.48205445544554
+Epoch [175/1000] Iter[201/377]	
+Acc  56.704757462686565
+Epoch [175/1000] Iter[301/377]	
+Acc  56.61077657807309
+Training acc =  56.42199933687002
+Evaluating Dataset!
+| Test Epoch #175	 Accuracy: 61.00%
+Training started!
+Epoch [176/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [176/1000] Iter[101/377]	
+Acc  55.870977722772274
+Epoch [176/1000] Iter[201/377]	
+Acc  56.21113184079602
+Epoch [176/1000] Iter[301/377]	
+Acc  56.37198920265781
+Training acc =  56.264505968169765
+Evaluating Dataset!
+| Test Epoch #176	 Accuracy: 61.27%
+Training started!
+Epoch [177/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [177/1000] Iter[101/377]	
+Acc  56.288675742574256
+Epoch [177/1000] Iter[201/377]	
+Acc  56.73585199004975
+Epoch [177/1000] Iter[301/377]	
+Acc  56.512147009966775
+Training acc =  56.38677055702918
+Evaluating Dataset!
+| Test Epoch #177	 Accuracy: 62.72%
+Training started!
+Epoch [178/1000] Iter[  1/377]	
+Acc  58.59375
+Epoch [178/1000] Iter[101/377]	
+Acc  57.363861386138616
+Epoch [178/1000] Iter[201/377]	
+Acc  56.66977611940298
+Epoch [178/1000] Iter[301/377]	
+Acc  56.73795681063123
+Training acc =  56.44893899204244
+Evaluating Dataset!
+| Test Epoch #178	 Accuracy: 59.08%
+Training started!
+Epoch [179/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [179/1000] Iter[101/377]	
+Acc  56.01794554455446
+Epoch [179/1000] Iter[201/377]	
+Acc  56.19947139303483
+Epoch [179/1000] Iter[301/377]	
+Acc  56.20068521594684
+Training acc =  56.18783156498674
+Evaluating Dataset!
+| Test Epoch #179	 Accuracy: 62.11%
+Training started!
+Epoch [180/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [180/1000] Iter[101/377]	
+Acc  57.56497524752475
+Epoch [180/1000] Iter[201/377]	
+Acc  57.155628109452735
+Epoch [180/1000] Iter[301/377]	
+Acc  56.69123754152824
+Training acc =  56.523541114058354
+Evaluating Dataset!
+| Test Epoch #180	 Accuracy: 61.51%
+Training started!
+Epoch [181/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [181/1000] Iter[101/377]	
+Acc  56.57487623762376
+Epoch [181/1000] Iter[201/377]	
+Acc  56.47543532338308
+Epoch [181/1000] Iter[301/377]	
+Acc  56.41611295681063
+Training acc =  56.4634449602122
+Evaluating Dataset!
+| Test Epoch #181	 Accuracy: 61.14%
+Training started!
+Epoch [182/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [182/1000] Iter[101/377]	
+Acc  56.427908415841586
+Epoch [182/1000] Iter[201/377]	
+Acc  56.81358830845771
+Epoch [182/1000] Iter[301/377]	
+Acc  56.82101328903654
+Training acc =  56.57327586206897
+Evaluating Dataset!
+| Test Epoch #182	 Accuracy: 61.71%
+Training started!
+Epoch [183/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [183/1000] Iter[101/377]	
+Acc  56.520730198019805
+Epoch [183/1000] Iter[201/377]	
+Acc  56.607587064676615
+Epoch [183/1000] Iter[301/377]	
+Acc  56.808035714285715
+Training acc =  56.803299071618035
+Evaluating Dataset!
+| Test Epoch #183	 Accuracy: 62.83%
+Saving best!
+Training started!
+Epoch [184/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [184/1000] Iter[101/377]	
+Acc  57.054455445544555
+Epoch [184/1000] Iter[201/377]	
+Acc  56.65422885572139
+Epoch [184/1000] Iter[301/377]	
+Acc  56.64711378737542
+Training acc =  56.658239389920425
+Evaluating Dataset!
+| Test Epoch #184	 Accuracy: 60.27%
+Training started!
+Epoch [185/1000] Iter[  1/377]	
+Acc  64.0625
+Epoch [185/1000] Iter[101/377]	
+Acc  56.59034653465346
+Epoch [185/1000] Iter[201/377]	
+Acc  56.4443407960199
+Epoch [185/1000] Iter[301/377]	
+Acc  56.61077657807309
+Training acc =  56.6043600795756
+Evaluating Dataset!
+| Test Epoch #185	 Accuracy: 62.89%
+Saving best!
+Training started!
+Epoch [186/1000] Iter[  1/377]	
+Acc  62.5
+Epoch [186/1000] Iter[101/377]	
+Acc  56.51299504950495
+Epoch [186/1000] Iter[201/377]	
+Acc  56.40547263681592
+Epoch [186/1000] Iter[301/377]	
+Acc  56.758720930232556
+Training acc =  56.64580570291777
+Evaluating Dataset!
+| Test Epoch #186	 Accuracy: 60.64%
+Training started!
+Epoch [187/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [187/1000] Iter[101/377]	
+Acc  56.95389851485149
+Epoch [187/1000] Iter[201/377]	
+Acc  57.124533582089555
+Epoch [187/1000] Iter[301/377]	
+Acc  56.7016196013289
+Training acc =  56.71626326259947
+Evaluating Dataset!
+| Test Epoch #187	 Accuracy: 62.18%
+Training started!
+Epoch [188/1000] Iter[  1/377]	
+Acc  53.125
+Epoch [188/1000] Iter[101/377]	
+Acc  56.29641089108911
+Epoch [188/1000] Iter[201/377]	
+Acc  57.09732587064676
+Epoch [188/1000] Iter[301/377]	
+Acc  57.0078903654485
+Training acc =  56.7473474801061
+Evaluating Dataset!
+| Test Epoch #188	 Accuracy: 62.59%
+Training started!
+Epoch [189/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [189/1000] Iter[101/377]	
+Acc  56.75278465346535
+Epoch [189/1000] Iter[201/377]	
+Acc  56.945740049751244
+Epoch [189/1000] Iter[301/377]	
+Acc  56.89887873754153
+Training acc =  56.89447944297082
+Evaluating Dataset!
+| Test Epoch #189	 Accuracy: 59.93%
+Training started!
+Epoch [190/1000] Iter[  1/377]	
+Acc  57.8125
+Epoch [190/1000] Iter[101/377]	
+Acc  57.49535891089109
+Epoch [190/1000] Iter[201/377]	
+Acc  57.20226990049751
+Epoch [190/1000] Iter[301/377]	
+Acc  57.01567691029901
+Training acc =  56.70590185676392
+Evaluating Dataset!
+| Test Epoch #190	 Accuracy: 62.72%
+Training started!
+Epoch [191/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [191/1000] Iter[101/377]	
+Acc  56.760519801980195
+Epoch [191/1000] Iter[201/377]	
+Acc  56.59592661691542
+Epoch [191/1000] Iter[301/377]	
+Acc  56.522529069767444
+Training acc =  56.620938328912466
+Evaluating Dataset!
+| Test Epoch #191	 Accuracy: 62.34%
+Training started!
+Epoch [192/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [192/1000] Iter[101/377]	
+Acc  56.652227722772274
+Epoch [192/1000] Iter[201/377]	
+Acc  56.98072139303483
+Epoch [192/1000] Iter[301/377]	
+Acc  56.78986710963455
+Training acc =  56.88204575596817
+Evaluating Dataset!
+| Test Epoch #192	 Accuracy: 60.26%
+Training started!
+Epoch [193/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [193/1000] Iter[101/377]	
+Acc  56.745049504950494
+Epoch [193/1000] Iter[201/377]	
+Acc  57.163401741293534
+Epoch [193/1000] Iter[301/377]	
+Acc  56.92483388704319
+Training acc =  57.018816312997345
+Evaluating Dataset!
+| Test Epoch #193	 Accuracy: 62.77%
+Training started!
+Epoch [194/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [194/1000] Iter[101/377]	
+Acc  56.66769801980198
+Epoch [194/1000] Iter[201/377]	
+Acc  56.883550995024876
+Epoch [194/1000] Iter[301/377]	
+Acc  56.92742940199336
+Training acc =  56.90276856763926
+Evaluating Dataset!
+| Test Epoch #194	 Accuracy: 62.79%
+Training started!
+Epoch [195/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [195/1000] Iter[101/377]	
+Acc  57.71194306930693
+Epoch [195/1000] Iter[201/377]	
+Acc  56.79804104477612
+Epoch [195/1000] Iter[301/377]	
+Acc  56.994912790697676
+Training acc =  56.98773209549071
+Evaluating Dataset!
+| Test Epoch #195	 Accuracy: 61.57%
+Training started!
+Epoch [196/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [196/1000] Iter[101/377]	
+Acc  56.915222772277225
+Epoch [196/1000] Iter[201/377]	
+Acc  56.79026741293532
+Epoch [196/1000] Iter[301/377]	
+Acc  56.83658637873754
+Training acc =  57.00223806366048
+Evaluating Dataset!
+| Test Epoch #196	 Accuracy: 61.59%
+Training started!
+Epoch [197/1000] Iter[  1/377]	
+Acc  55.46875
+Epoch [197/1000] Iter[101/377]	
+Acc  57.2865099009901
+Epoch [197/1000] Iter[201/377]	
+Acc  56.99626865671642
+Epoch [197/1000] Iter[301/377]	
+Acc  56.67825996677741
+Training acc =  56.75563660477454
+Evaluating Dataset!
+| Test Epoch #197	 Accuracy: 62.78%
+Training started!
+Epoch [198/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [198/1000] Iter[101/377]	
+Acc  56.7759900990099
+Epoch [198/1000] Iter[201/377]	
+Acc  56.73585199004975
+Epoch [198/1000] Iter[301/377]	
+Acc  56.7171926910299
+Training acc =  56.736986074270554
+Evaluating Dataset!
+| Test Epoch #198	 Accuracy: 62.03%
+Training started!
+Epoch [199/1000] Iter[  1/377]	
+Acc  52.34375
+Epoch [199/1000] Iter[101/377]	
+Acc  56.698638613861384
+Epoch [199/1000] Iter[201/377]	
+Acc  57.00015547263681
+Epoch [199/1000] Iter[301/377]	
+Acc  56.96117109634552
+Training acc =  57.020888594164454
+Evaluating Dataset!
+| Test Epoch #199	 Accuracy: 62.59%
+Training started!
+Epoch [200/1000] Iter[  1/377]	
+Acc  54.6875
+Epoch [200/1000] Iter[101/377]	
+Acc  57.51856435643565
+Epoch [200/1000] Iter[201/377]	
+Acc  56.97294776119403
+Epoch [200/1000] Iter[301/377]	
+Acc  56.95078903654485
+Training acc =  57.05818965517241
+Evaluating Dataset!
+| Test Epoch #200	 Accuracy: 59.85%
+Training started!
+Epoch [201/1000] Iter[  1/377]	
+Acc  46.875
+Epoch [201/1000] Iter[101/377]	
+Acc  57.61912128712871
+Epoch [201/1000] Iter[201/377]	
+Acc  57.101212686567166
+Epoch [201/1000] Iter[301/377]	
+Acc  57.122093023255815
+Training acc =  57.10377984084881
+Evaluating Dataset!
+| Test Epoch #201	 Accuracy: 61.31%
+Training started!
+Epoch [202/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [202/1000] Iter[101/377]	
+Acc  57.271039603960396
+Epoch [202/1000] Iter[201/377]	
+Acc  57.09343905472637
+Epoch [202/1000] Iter[301/377]	
+Acc  57.13247508305648
+Training acc =  57.083057029177716
+Evaluating Dataset!
+| Test Epoch #202	 Accuracy: 58.98%
+Training started!
+Epoch [203/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [203/1000] Iter[101/377]	
+Acc  57.56497524752475
+Epoch [203/1000] Iter[201/377]	
+Acc  57.24113805970149
+Epoch [203/1000] Iter[301/377]	
+Acc  57.22850913621262
+Training acc =  57.06233421750663
+Evaluating Dataset!
+| Test Epoch #203	 Accuracy: 62.77%
+Training started!
+Epoch [204/1000] Iter[  1/377]	
+Acc  45.3125
+Epoch [204/1000] Iter[101/377]	
+Acc  57.06219059405941
+Epoch [204/1000] Iter[201/377]	
+Acc  57.01570273631841
+Epoch [204/1000] Iter[301/377]	
+Acc  56.95078903654485
+Training acc =  57.00431034482759
+Evaluating Dataset!
+| Test Epoch #204	 Accuracy: 62.04%
+Training started!
+Epoch [205/1000] Iter[  1/377]	
+Acc  62.5
+Epoch [205/1000] Iter[101/377]	
+Acc  56.7759900990099
+Epoch [205/1000] Iter[201/377]	
+Acc  57.318874378109456
+Epoch [205/1000] Iter[301/377]	
+Acc  57.15843023255814
+Training acc =  57.294429708222815
+Evaluating Dataset!
+| Test Epoch #205	 Accuracy: 61.56%
+Training started!
+Epoch [206/1000] Iter[  1/377]	
+Acc  63.28125
+Epoch [206/1000] Iter[101/377]	
+Acc  57.193688118811885
+Epoch [206/1000] Iter[201/377]	
+Acc  57.29944029850746
+Epoch [206/1000] Iter[301/377]	
+Acc  57.049418604651166
+Training acc =  57.03746684350133
+Evaluating Dataset!
+| Test Epoch #206	 Accuracy: 62.43%
+Training started!
+Epoch [207/1000] Iter[  1/377]	
+Acc  60.9375
+Epoch [207/1000] Iter[101/377]	
+Acc  57.34839108910891
+Epoch [207/1000] Iter[201/377]	
+Acc  57.268345771144276
+Epoch [207/1000] Iter[301/377]	
+Acc  57.24148671096346
+Training acc =  57.124502652519894
+Evaluating Dataset!
+| Test Epoch #207	 Accuracy: 60.32%
+Training started!
+Epoch [208/1000] Iter[  1/377]	
+Acc  50.0
+Epoch [208/1000] Iter[101/377]	
+Acc  57.085396039603964
+Epoch [208/1000] Iter[201/377]	
+Acc  57.155628109452735
+Epoch [208/1000] Iter[301/377]	
+Acc  56.64970930232558
+Training acc =  56.81987732095491
+Evaluating Dataset!
+| Test Epoch #208	 Accuracy: 61.80%
+Training started!
+Epoch [209/1000] Iter[  1/377]	
+Acc  56.25
+Epoch [209/1000] Iter[101/377]	
+Acc  56.00247524752475
+Epoch [209/1000] Iter[201/377]	
+Acc  56.85245646766169
+Epoch [209/1000] Iter[301/377]	
+Acc  56.80544019933555
+Training acc =  56.875828912466844
+Evaluating Dataset!
+| Test Epoch #209	 Accuracy: 60.41%
+Training started!
+Epoch [210/1000] Iter[  1/377]	
+Acc  53.90625
+Epoch [210/1000] Iter[101/377]	
+Acc  57.73514851485149
+Epoch [210/1000] Iter[201/377]	
+Acc  57.245024875621894
+Epoch [210/1000] Iter[301/377]	
+Acc  57.03644102990033
+Training acc =  57.25298408488064
+Evaluating Dataset!
+| Test Epoch #210	 Accuracy: 63.13%
+Saving best!
+Training started!
+Epoch [211/1000] Iter[  1/377]	
+Acc  60.9375
+Epoch [211/1000] Iter[101/377]	
+Acc  57.2865099009901
+Epoch [211/1000] Iter[201/377]	
+Acc  57.40827114427861
+Epoch [211/1000] Iter[301/377]	
+Acc  57.127284053156146
+Training acc =  57.13693633952255
+Evaluating Dataset!
+| Test Epoch #211	 Accuracy: 60.27%
+Training started!
+Epoch [212/1000] Iter[  1/377]	
+Acc  65.625
+Epoch [212/1000] Iter[101/377]	
+Acc  57.84344059405941
+Epoch [212/1000] Iter[201/377]	
+Acc  57.39272388059702
+Epoch [212/1000] Iter[301/377]	
+Acc  57.43095930232558
+Training acc =  57.617705570291776
+Evaluating Dataset!
+| Test Epoch #212	 Accuracy: 62.09%
+Training started!
+Epoch [213/1000] Iter[  1/377]	
+Acc  57.03125
+Epoch [213/1000] Iter[101/377]	
+Acc  56.961633663366335
+Epoch [213/1000] Iter[201/377]	
+Acc  57.27223258706468
+Epoch [213/1000] Iter[301/377]	
+Acc  57.17140780730897
+Training acc =  57.02917771883289
+Evaluating Dataset!
+| Test Epoch #213	 Accuracy: 60.07%
+Training started!
+Epoch [214/1000] Iter[  1/377]	
+Acc  62.5
+Epoch [214/1000] Iter[101/377]	
+Acc  56.93842821782178
+Epoch [214/1000] Iter[201/377]	
+Acc  56.8291355721393
+Epoch [214/1000] Iter[301/377]	
+Acc  56.99750830564784
+Training acc =  56.935925066313
+Evaluating Dataset!
+| Test Epoch #214	 Accuracy: 59.71%
+Training started!
+Epoch [215/1000] Iter[  1/377]	
+Acc  60.9375
+Epoch [215/1000] Iter[101/377]	
+Acc  56.83013613861386
+Epoch [215/1000] Iter[201/377]	
+Acc  56.88743781094527
+Epoch [215/1000] Iter[301/377]	
+Acc  56.901474252491695
+Training acc =  56.942141909814325
+Evaluating Dataset!
+| Test Epoch #215	 Accuracy: 60.73%
+Training started!
+Epoch [216/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [216/1000] Iter[101/377]	
+Acc  57.13180693069307
+Epoch [216/1000] Iter[201/377]	
+Acc  57.2178171641791
+Epoch [216/1000] Iter[301/377]	
+Acc  57.01048588039867
+Training acc =  56.92141909814324
+Evaluating Dataset!
+| Test Epoch #216	 Accuracy: 60.03%
+Training started!
+Epoch [217/1000] Iter[  1/377]	
+Acc  60.9375
+Epoch [217/1000] Iter[101/377]	
+Acc  56.98483910891089
+Epoch [217/1000] Iter[201/377]	
+Acc  56.899098258706466
+Epoch [217/1000] Iter[301/377]	
+Acc  56.89887873754153
+Training acc =  56.765998010610076
+Evaluating Dataset!
+| Test Epoch #217	 Accuracy: 62.11%
+Training started!
+Epoch [218/1000] Iter[  1/377]	
+Acc  49.21875
+Epoch [218/1000] Iter[101/377]	
+Acc  57.34065594059406
+Epoch [218/1000] Iter[201/377]	
+Acc  57.606498756218905
+Epoch [218/1000] Iter[301/377]	
+Acc  57.28561046511628
+Training acc =  57.17009283819629
+Evaluating Dataset!
+| Test Epoch #218	 Accuracy: 62.61%
+Training started!
+Epoch [219/1000] Iter[  1/377]	
+Acc  50.78125
+Epoch [219/1000] Iter[101/377]	
+Acc  57.363861386138616
+Epoch [219/1000] Iter[201/377]	
+Acc  57.178949004975124
+Epoch [219/1000] Iter[301/377]	
+Acc  57.17140780730897
+Training acc =  57.2446949602122
+Evaluating Dataset!
+| Test Epoch #219	 Accuracy: 62.08%
+Training started!
+Epoch [220/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [220/1000] Iter[101/377]	
+Acc  56.78372524752475
+Epoch [220/1000] Iter[201/377]	
+Acc  56.61147388059702
+Epoch [220/1000] Iter[301/377]	
+Acc  56.83658637873754
+Training acc =  56.95872015915119
+Evaluating Dataset!
+| Test Epoch #220	 Accuracy: 60.80%
+Training started!
+Epoch [221/1000] Iter[  1/377]	
+Acc  51.5625
+Epoch [221/1000] Iter[101/377]	
+Acc  58.12964108910891
+Epoch [221/1000] Iter[201/377]	
+Acc  57.09343905472637
+Epoch [221/1000] Iter[301/377]	
+Acc  56.8936877076412
+Training acc =  56.92763594164456
+Evaluating Dataset!
+| Test Epoch #221	 Accuracy: 61.22%
+Training started!
+Epoch [222/1000] Iter[  1/377]	
+Acc  50.0
+Traceback (most recent call last):
+  File "/home/ncmssh0313/Guiding-Pseudo-labels-with-Uncertainty-Estimation-for-Source-free-Unsupervised-Domain-Adaptation/train_target.py", line 363, in <module>
+    train(epoch, net, moco_model, optimizer, train_loader, banks) # train net1
+  File "/home/ncmssh0313/Guiding-Pseudo-labels-with-Uncertainty-Estimation-for-Source-free-Unsupervised-Domain-Adaptation/train_target.py", line 217, in train
+    accuracy = 100.*accuracy_score(y.to('cpu'), logits_w.to('cpu').max(1)[1])
+KeyboardInterrupt
